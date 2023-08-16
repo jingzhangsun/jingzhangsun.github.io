@@ -31,4 +31,29 @@ Latest Update: 2023.08
 - [Vulnerability analysis of interdependent scale-free networks with complex coupling](https://www.hindawi.com/journals/jece/2017/9080252/)<br>Chunjie Cao<sup>&</sup>, Zhiqiang Zhang, **Jingzhang Sun**, Xianpeng Wang, and Mengxing Wang<br>Journal of Electrical and Computing Engineering, 2017.<br>
 
 - [基于相似度的伪随机序列中超长稀疏特征分析](https://www.cnki.com.cn/Article/CJFDTotal-TXXB2016S1004.htm)<br>曹春杰<sup>&</sup>, **孙敬张**, 张智强, 王隆娟和黄梦醒<br>通信学报, 2016.<br>
+---
+
+## Conference Proceedings
+
+- [Label-guided weighted autoencoder network for flexible targeted attacks of deep hashing](https://ieeexplore.ieee.org/abstract/document/10191987/)<br>Sizheng Fu, Chunjie Cao<sup>&</sup>, Fangjian Tao, Binghui Zou, Xiaoyu Lin, and **Jingzhang Sun**<sup>&</sup><br>2023 International Joint Conference on Neural Networks (IJCNN), June 18-23, 2023. Queensland, Australia.<br>
+
+- [Low dose myocardial perfusion SPECT denoising using an attention-guided generative adversarial network]<br>**Jingzhang Sun**, Chien-Ying Li, Yu Du, Tung-Hsin Wu, Bang-Hung Yang, Yi-Hwa Liu, and Greta S.P. Mok<sup>&</sup><br>2022 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), November 5-12, 2022. Milano, Italy.<br>
+
+- [The effect of mismatch between SPECT and CT images on deep learning-based attenuation correction for myocardial perfusion SPECT]<br>Yu Du, Jingjie Shang, **Jingzhang Sun**, Lu Wang, Hao Xu, and Greta S.P. Mok<sup>&</sup><br>2022 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), November 5-12, 2022. Milano, Italy.<br>
+
+- [Deep learning-based low dose whole body PET denoising incorporating CT priors]<br>Zhengyu Peng, Fanwei Zhang, **Jingzhang Sun**, Yu Du, Ying Wang, and Greta S.P. Mok<sup>&</sup><br>2022 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), November 5-12, 2022. Milano, Italy.<br>
+
+- [Preliminary performance evaluation of deep learning-based attenuation corrections for myocardial perfusion SPECT](https://ieeexplore.ieee.org/abstract/document/9875692)<br>Yu Du, **Jingzhang Sun**, and Greta S.P. Mok<sup>&</sup><br>2021 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), October 16–23 2021, Yokohama, Japan.<br>
+
+- [Comparison of projection-based and reconstruction-based low dose SPECT image denoising using a conditional generative adversarial network](https://ieeexplore.ieee.org/abstract/document/9507752)<br>Greta S.P. Mok<sup>&</sup>, **Jingzhang Sun**, Qi Zhang and Yu Du<br>2020 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), October 31–November 7, 2020, Boston, USA.<br>
+
+- [Generative adversarial network for denoising in dual gated myocardial perfusion SPECT using a population of phantoms and clinical data](https://ieeexplore.ieee.org/abstract/document/9059884)<br>**Jingzhang Sun**, Qi Zhang, Duo Zhang, P. Hendrik Pretorius, Michael A. King and Greta S.P. Mok<sup>&</sup><br>2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), October 28–November 3, 2019, Manchester, England.<br>
+
+- [Preliminary Investigation of Auto-classification of Respiratory Trace Using Convolutional Neural Network for Adaptive Respiratory Gated Myocardial Perfusion SPECT](https://ieeexplore.ieee.org/document/9059744)<br>Greta S.P. Mok<sup>&</sup>, Qi Zhang, **Jingzhang Sun**, Duo Zhang, P. Hendrik Pretorius, and Michael A. King<br>2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), October 28–November 3, 2019, Manchester, England.<br>
+
+- [Searchable encryption scheme based on CPABE with attribute update in a cloud medical environment](https://link.springer.com/chapter/10.1007/978-3-030-00012-7_25)<br>**Jingzhang Sun**, Chunjie Cao<sup>&</sup>, and Hui Li<br>2018 International Conference on Cloud Computing and Security (ICCCS), June 8-10, 2018. Haikou, Hainan, China.<br>
+---
+
+## Conference Presentation and Abstract
+
 
