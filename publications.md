@@ -18,6 +18,17 @@ Latest Update: 2023.08
 
 - [Fast myocardial perfusion SPECT denoising using an attention-guided generative adversarial network](https://www.frontiersin.org/articles/10.3389/fmed.2023.1083413/full)<br>**Jingzhang Sun**, Bang-Hung Yang, Chien-Ying Li, Yu Du, Yi-Hwa Liu, Tung-Hsin Wu, and Greta S.P. Mok<sup>&</sup><br>Frontiers in Medicine, 2023.<br>
 
-- [Dual gating myocardial perfusion SPECT denoising using a conditional generative adversarial network](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15707)<br>**Jingzhang Sun**, Qi Zhang, Yu Du, Duo Zhang, P. Hendrik Pretorius, Michael A. King,  and Greta S.P. Mok<sup>&</sup><br>Medical Physics, 2022.<br>
+- [Dual gating myocardial perfusion SPECT denoising using a conditional generative adversarial network](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15707)<br>**Jingzhang Sun**, Qi Zhang, Yu Du, Duo Zhang, P. Hendrik Pretorius, Michael A. King, and Greta S.P. Mok<sup>&</sup><br>Medical Physics, 2022.<br>
 
-- []
+- [Pix2Pix generative adversarial network for low dose myocardial perfusion SPECT denoising](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246746/)<br>**Jingzhang Sun**, Yu Du, Chien-Ying Li, Tung-Hsin Wu, Bang-Hung Yang, and Greta S.P. Mok<sup>&</sup><br>Quantitative Imaging in Medicine and Surgery, 2022.<br>
+
+- [Deep learning-based denoising in projection-domain and reconstruction-domain for low-dose myocardial perfusion SPECT](https://link.springer.com/article/10.1007/s12350-022-03045-x)<br>**Jingzhang Sun**, Han Jiang, Yu Du, Chien-Ying Li, Tung-Hsin Wu, Yi-Hwa Liu, Bang-Hung Yang, and Greta S.P. Mok<sup>&</sup><br>Journal of Nuclear Cardiology, 2022.<br>
+
+- [Deep-learning-based estimation of attenuation map improves attenuation correction performance over direct attenuation estimation for myocardial perfusion SPECT](https://link.springer.com/article/10.1007/s12350-022-03092-4)<br>Yu Du, Jingjie Shang, **Jingzhang Sun**, Lu Wang, Yi-Hwa Liu, Hao Xu, and Greta S.P. Mok<sup>&</sup><br>Journal of Nuclear Cardiology, 2022.<br>
+
+- [Clinical evaluation of three respiratory gating schemes for different respiratory patterns on cardiac SPECT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7721994/)<br>Duo Zhang, **Jingzhang Sun**, P. Hendrik Pretorius, Michael A. King, and Greta S.P. Mok<sup>&</sup><br>Medical Physics, 2020.<br>
+
+- [Vulnerability analysis of interdependent scale-free networks with complex coupling](https://www.hindawi.com/journals/jece/2017/9080252/)<br>Chunjie Cao<sup>&</sup>, Zhiqiang Zhang, **Jingzhang Sun**, Xianpeng Wang, and Mengxing Wang<br>Journal of Electrical and Computing Engineering, 2017.<br>
+
+- [基于相似度的伪随机序列中超长稀疏特征分析](https://www.cnki.com.cn/Article/CJFDTotal-TXXB2016S1004.htm)<br>曹春杰<sup>&</sup>, **孙敬张**, 张智强, 王隆娟和黄梦醒<br>通信学报, 2016.<br>
+
