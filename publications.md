@@ -53,5 +53,22 @@ Latest Update: 2023.08
 - [Searchable encryption scheme based on CPABE with attribute update in a cloud medical environment](https://link.springer.com/chapter/10.1007/978-3-030-00012-7_25)<br>**Jingzhang Sun**, Chunjie Cao<sup>&</sup>, and Hui Li<br>2018 International Conference on Cloud Computing and Security (ICCCS), June 8-10, 2018. Haikou, Hainan, China.<br>
 
 ## Conference Presentation and Abstract
+- Revisiting graph contrastive learning for anomaly detection.<br>Zhiyuan Liu, Chunjie Cao<sup>&</sup>, Fangjian Tao, and **Jingzhang Sun<sup>&</sup>**<br>Paper accepted for presentation at 26<sup>th</sup> European Conference on Artificial Intelligence (ECAI). September 30- October 5, 2023. Kraków, Poland.<br>
+
+- Deep wavelet residual attention network for radio frequency fingerprint identification under low SNR.<br>Haoran Li, Chunjie Cao<sup>&</sup>, Yang Sun, Haifeng Peng, Yifan Li, and **Jingzhang Sun<sup>&</sup>**<br>Paper accepted for presentation at 2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS). September 25-27, 2023. Toronto, Canada.<br>
+
+- Radiofrequency fingerprint feature extraction and recognition using a coordinate attention-guided deep residual shrinkage network.<br>Yingling Wang, Chunjie Cao<sup>&</sup>, Yifan Li, Qianlin Dong, Haoran Li and **Jingzhang Sun<sup>&</sup>**<br>Paper accepted for presentation at 2023 International Conference on Networking and Network Applications (NaNA). August 18-21, 2023. Qingdao, China.<br>
+
+- LGWAE: Label-guided weighted autoencoder network for flexible targeted attacks of deep hashing.<br>Sizheng Fu, Chunjie Cao<sup>&</sup>, Fangjian Tao, Binghui Zou, Xingyu Lin and **Jingzhang Sun<sup>&</sup>**<br>Paper accepted for presentation at 2023 International Joint Conference on Neural Networks (IJCNN), June 18-23, 2023. Queensland, Australia.<br>
+
+- One-size-fits-all deep learning model for fast myocardial perfusion SPECT denoising.<br>**Jingzhang Sun**, Chien-Ying Li, Tung-Hsin Wu, Bang-Hung Yang, and Greta S.P. Mok<sup>&</sup><br>Paper accepted for presentation at Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2023 Annual Meeting, June 24-27, 2023. Chicago, Illinois, USA.<br>
+
+- Frequency specific denoising for myocardial perfusion SPECT using deep learning.<br>Yu Du, **Jingzhang Sun**, Chien-Ying Li, Tung-Hsin Wu, Bang-Hung Yang, and Greta S.P. Mok<sup>&</sup><br>Paper accepted for presentation at Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2023 Annual Meeting, June 24-27, 2023. Chicago, Illinois, USA.<br>
+
+- 基于注意力机制的生成对抗网络对投影域低剂量心肌灌注SPECT降噪.<br>**孙敬张**, 李建颖, Tung-Hsin Wu, Bang-Hung Yang, and Greta S.P. Mok<sup>&</sup><br>Paper accepted for presentation at Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2023 Annual Meeting, June 24-27, 2023. Chicago, Illinois, USA.<br>
+
+
+
+
 
 
