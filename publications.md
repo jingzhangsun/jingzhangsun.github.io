@@ -89,4 +89,4 @@ Latest Update: 2023.08
 
 - Low dose SPECT image denoising using a generative adversarial network<br>Qi Zhang, **Jingzhang Sun**, and Greta S.P. Mok<sup>&</sup><br>Paper accepted for presentation at 2019 The International Conference on Medical Imaging with Deep Learning (MIDL), July 8–10, 2019, London, England.<br>
 
-- Searchable encryption scheme based on CPABE with attribute update in a cloud medical environment<br>**Jingzhang Sun**, Chunjie Cao<sup>&</sup><br>, and Hui Li Paper accepted for presentation at 2018 International Conference on Cloud Computing and Security (ICCCS), June 8-10, 2018. Haikou, Hainan, China.<br>
+- Searchable encryption scheme based on CPABE with attribute update in a cloud medical environment<br>**Jingzhang Sun**, Chunjie Cao<sup>&</sup><br>, and Hui Li<br>Paper accepted for presentation at 2018 International Conference on Cloud Computing and Security (ICCCS), June 8-10, 2018. Haikou, Hainan, China.<br>
