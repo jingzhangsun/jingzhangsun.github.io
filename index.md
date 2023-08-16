@@ -12,10 +12,9 @@ I am currently an [associate professor](https://hd.hainanu.edu.cn/scscs/info/105
 
 # **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **2011/08 - 2015/07:** Xi'an University of Technology (BEng)
+- **2015/08 - 2018/06:** Hainan University (MEng)
+- **2018/08 - 2022/11:** University of Macau (Ph.D.)
 
 <br>
 
