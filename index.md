@@ -3,40 +3,25 @@ layout: page
 ---
 
 # Biography
-
 I am currently an [associate professor](https://hd.hainanu.edu.cn/scscs/info/1051/2659.htm) at Hainan University. I obtained my Ph.D. from [University of Macau](https://www.um.edu.mo/), advised by [Prof. Greta Mok](https://www.fst.um.edu.mo/people/gretamok/) at [BIG](https://big.fst.um.edu.mo/), [Department of Electrical and Computer Engineering (ECE)](https://www.fst.um.edu.mo/ece/).
 
 Before coming to UM, I graduated in 2018 from Hainan University as a master student, supervised by [Prof. Chunjie Cao](https://hd.hainanu.edu.cn/scscs/info/1051/1953.htm). Prior to that, I received my BEng from Xi'an University of Technology.
 
-<br>
+## News
 
-## Academic Background
+- **2023.07：**One paper accepted by [ECAI2023](https://ecai2023.eu/).
+
+
+## Education
 - **2011/08 - 2015/07:** Xi'an University of Technology (BEng)
 - **2015/08 - 2018/06:** Hainan University (MEng)
 - **2018/08 - 2022/11:** University of Macau (Ph.D.)
-- 
-<br>
+  
 
 ---
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
-<br>
+- 1
 
 ---
-
-## News and Updates
-
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- [Online talk with me.](https://calendly.com/lancecai/meet-with-lance)
