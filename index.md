@@ -9,13 +9,10 @@ I am currently an [associate professor](https://hd.hainanu.edu.cn/scscs/info/105
 <br>
 
 ## Academic Background
-
-# **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
 - **2011/08 - 2015/07:** Xi'an University of Technology (BEng)
 - **2015/08 - 2018/06:** Hainan University (MEng)
 - **2018/08 - 2022/11:** University of Macau (Ph.D.)
-
+- 
 <br>
 
 ---
