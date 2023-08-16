@@ -4,7 +4,9 @@ layout: page
 
 # Biography
 
-I am currently an [associate professor](https://hd.hainanu.edu.cn/scscs/info/1051/2659.htm) at Hainan University. I obtained my Ph.D. from [University of Macau](https://www.um.edu.mo/), advided by [Prof. Greta Mok](https://www.fst.um.edu.mo/people/gretamok/) at [BIG](https://big.fst.um.edu.mo/), [Department of Electrical and Computer Engineering (ECE)](https://www.fst.um.edu.mo/ece/).
+I am currently an [associate professor](https://hd.hainanu.edu.cn/scscs/info/1051/2659.htm) at Hainan University. I obtained my Ph.D. from [University of Macau](https://www.um.edu.mo/), advised by [Prof. Greta Mok](https://www.fst.um.edu.mo/people/gretamok/) at [BIG](https://big.fst.um.edu.mo/), [Department of Electrical and Computer Engineering (ECE)](https://www.fst.um.edu.mo/ece/).
+
+Before coming to UM, I graduated in 2018 from Hainan University as a master student, supervised by [Prof. Chunjie Cao](https://hd.hainanu.edu.cn/scscs/info/1051/1953.htm). Prior to that, I received my BEng from Xi'an University of Technology.
 
 <br>
 
