@@ -31,7 +31,6 @@ Latest Update: 2023.08
 - [Vulnerability analysis of interdependent scale-free networks with complex coupling](https://www.hindawi.com/journals/jece/2017/9080252/)<br>Chunjie Cao<sup>&</sup>, Zhiqiang Zhang, **Jingzhang Sun**, Xianpeng Wang, and Mengxing Wang<br>Journal of Electrical and Computing Engineering, 2017.<br>
 
 - [基于相似度的伪随机序列中超长稀疏特征分析](https://www.cnki.com.cn/Article/CJFDTotal-TXXB2016S1004.htm)<br>曹春杰<sup>&</sup>, **孙敬张**, 张智强, 王隆娟和黄梦醒<br>通信学报, 2016.<br>
----
 
 ## Conference Proceedings
 
@@ -52,7 +51,6 @@ Latest Update: 2023.08
 - [Preliminary Investigation of Auto-classification of Respiratory Trace Using Convolutional Neural Network for Adaptive Respiratory Gated Myocardial Perfusion SPECT](https://ieeexplore.ieee.org/document/9059744)<br>Greta S.P. Mok<sup>&</sup>, Qi Zhang, **Jingzhang Sun**, Duo Zhang, P. Hendrik Pretorius, and Michael A. King<br>2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), October 28–November 3, 2019, Manchester, England.<br>
 
 - [Searchable encryption scheme based on CPABE with attribute update in a cloud medical environment](https://link.springer.com/chapter/10.1007/978-3-030-00012-7_25)<br>**Jingzhang Sun**, Chunjie Cao<sup>&</sup>, and Hui Li<br>2018 International Conference on Cloud Computing and Security (ICCCS), June 8-10, 2018. Haikou, Hainan, China.<br>
----
 
 ## Conference Presentation and Abstract
 
