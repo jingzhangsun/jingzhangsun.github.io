@@ -73,7 +73,7 @@ Latest Update: 2023.08
 
 - Deep learning-based low dose whole body PET denoising incorporating CT priors<br>Zhengyu Peng, Fanwei Zhang, **Jingzhang Sun**, Yu Du, Ying Wang, and Greta S.P. Mok<sup>&</sup><br>Paper accepted for presentation at 2022 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), November 5-12, 2022. Milano, Italy.<br>
 
-- Deep learning-based denoising for low dose myocardial perfusion SPECT<br>**Jingzhang Sun**, Chien-Ying Li, Yu Du, Tung-Hsin Wu, Yi-Hwa Liu, Bang-Hung Yang, and Greta S.P. Mok<sup>&</sup><br>**Finalist of Rising Nuclear Medicine Professional Challenge** at 14th Asia Oceania Congress of Nuclear Medicine and Biology (AOCNMB), September 6-7, 2022. Kyoto, Japan.<br>
+- Deep learning-based denoising for low dose myocardial perfusion SPECT<br>**Jingzhang Sun**, Chien-Ying Li, Yu Du, Tung-Hsin Wu, Yi-Hwa Liu, Bang-Hung Yang, and Greta S.P. Mok<sup>&</sup><br>**Finalist of Rising Nuclear Medicine Professional Challenge** at 14<sup>th</sup> Asia Oceania Congress of Nuclear Medicine and Biology (AOCNMB), September 6-7, 2022. Kyoto, Japan.<br>
 
 - Generative adversarial network-based attenuation correction for <sup>99m</sup>Tc-TRODAT-1 brain SPECT<br>Yu Du, Zhengyu Peng, **Jingzhang Sun**, Guang-Uei Huang, and Greta S.P. Mok<sup>&</sup><br>Paper accepted for **oral** presentation at the Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2022 Annual Meeting, June 11–14, 2022.Vancouver, Canada.<br>
 
