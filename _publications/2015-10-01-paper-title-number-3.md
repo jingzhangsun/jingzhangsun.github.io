@@ -2,5 +2,18 @@
 collection: publications
 category: Journal
 ---
-1. CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang^, and **JZ Sun**^. SMGDiff: Step mapping generalized diffusion model for efficient noise reduction in cardiac-gated myocardial perfusion SPECT images. *EJNMMI Physics* (Under review), 2025.
-2. JH Dong, CG Huang, CH Li, CL Liu, Q Zhang, ZL Lu, Y Du, CJ Cao, and **JZ Sun**^. Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes. *Medical physics* (Under review), 2025.
+1. CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang^, and **JZ Sun^**. SMGDiff: Step mapping generalized diffusion model for efficient noise reduction in cardiac-gated myocardial perfusion SPECT images. *EJNMMI Physics* (Under review), 2025.
+2. JH Dong, CG Huang, CH Li, CL Liu, Q Zhang, ZL Lu, Y Du, CJ Cao, and **JZ Sun^**. Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes. *Medical physics* (Under review), 2025.
+3. CH Gao, HB Zhou, WX Liang, ZF Wen, ZX Xie, CL Liao, LM He, **JZ Sun**, ZL Chen, NJ Yuan^, CG Huang^, and JW Zhang^. Proteome-wide association study for finding druggable targets in progression and onset of Parkinson's disease. *CNS Neuroscience & Therapeutics*, 31(2), 2025.
+4. ZY Peng, FW Zhang, Han Jiang, GC Liu, **JZ Sun**, Y Du, Y Wang^, and GSP Mok^. Deep learning-based low count whole-body positron emission tomography denoising incorporating computed tomography priors. *Quantitative Imaging in Medicine and Surgery*, 14(12), 8140, 2024.
+5. Y Du, **JZ Sun**, CY Li, BH Yang, TH Wu, and GSP Mok^. Deep learning-based multi-frequency denoising for myocardial perfusion SPECT. *EJNMMI Physics*, 11(1), 80, 2024.
+6. Q Zhang, ZB Ying, J Shen, S-K Kou, **JZ Sun**, and B Zhang^. Unsupervised color-based nuclei segmentation in histopathology images with various color spaces and K values selection. *International Journal of Image and Graphics*, (2550061), 2024.
+7. Y Du, H Jiang, CN Lin, ZY Peng, **JZ Sun**, PY Chiu, GU Hung^, and GSP Mok^. Generative adversarial network-based attenuation correction for 99mTc-TRODAT-1 brain SPECT. *Frontiers in Medicine*, 10, 2023.
+8. ZL Lu, GF Chen, H Jiang, **JZ Sun**, K-H Lin, and GSP Mok^. SPECT and CT misregistration reduction in [99mTc] Tc-MAA SPECT/CT for precision liver radioembolization treatment planning. *European Journal of Nuclear Medicine and Molecular Imaging*. 50(8) 2023.
+9. Y Du, JJ Shang, **JZ Sun**, L Wang, YH Liu, H Xu, and GSP Mok^. Deep-learning-based estimation of attenuation map improves attenuation correction performance over direct attenuation estimation for myocardial perfusion SPECT. *Journal of Nuclear Cardiology*. 30(3), 2023.
+10. **JZ Sun**, H Jiang, Y Du, CY Li, TH Wu, YH Liu, BH Yang^, and GSP Mok^. Deep learning-based denoising in projection-domain and reconstruction-domain for low-dose myocardial perfusion SPECT. *Journal of Nuclear Cardiology*. 30(3), 2023. **(2024 Best Technical Paper Award of American Society of Nuclear Cardiology)**
+11. **JZ Sun**, CY Li, Y Du, TH Wu, YH Liu, BH Yang^, and GSP Mok^. Fast myocardial perfusion SPECT denoising using an attention-guided generative adversarial network. *Frontiers in Medicine*. 10, 2023.
+12. **JZ Sun**, Y Du, CY Li, TH Wu, BH Yang, and GSP Mok^. Pix2Pix generative adversarial network for low dose myocardial perfusion SPECT denoising. *Quantitative Imaging in Medicine and Surgery*. 12(7), 2022.
+13. **JZ Sun**, Q Zhang, Y Du, D Zhang, PH Pretorius, MA King, and GSP Mok^. Dual gating myocardial perfusion SPECT denoising using a conditional generative adversarial network. *Medical Physics*. 49(8), 2022.
+14. D Zhang, **JZ Sun**, PH Pretorius, MA King and GSP Mok^. Clinical evaluation of three respiratory gating schemes for different respiratory patterns on cardiac SPECT. *Medical physics*, 47(9), 2020.
+
