@@ -1,18 +1,13 @@
 ---
-permalink: /publication/2025
+title: "Paper Title Number 5, with math $$E=mc^2$$"
 collection: publications
-category: 2025
-excerpt: '
-**Peer-reviewed Journal Papers**
-1. CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang&, and **JZ Sun&**. SMGDiff: Step mapping generalized diffusion model for efficient noise reduction in cardiac-gated myocardial perfusion SPECT images. *EJNMMI Physics* (Under review), 2025.
-2. JH Dong, CG Huang, CH Li, CL Liu, Q Zhang, ZL Lu, Y Du, CJ Cao, and **JZ Sun&**. Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes. *Medical physics* (Under review), 2025. 
-3. CH Gao, HB Zhou, WX Liang, ZF Wen, ZX Xie, CL Liao, LM He, **JZ Sun**, ZL Chen, NJ Yuan&, CG Huang&, and JW Zhang&. Proteome-wide association study for finding druggable targets in progression and onset of Parkinson's disease. *CNS Neuroscience & Therapeutics*, 31(2), 2025.
-**Conference Presentation and Abstract**
-1. 施彦坤，董佳慧，李春浩，黄江山，王卉&，**孙敬张**. 基于患者个性化病例数据的多模态深度学习心脏门控心肌灌注SPECT去噪方法. *中华医学会核医学分会2025年学术年会*, 口头汇报, 2025年9月18-20日, 四川成都.
-2. 黄江山，李春浩，董佳慧，施彦坤，王卉&，**孙敬张**. 基于双扩散模型融合的心脏门控MP-SPECT图像增强方法. *中华医学会核医学分会2025年学术年会*, 口头汇报, 2025年9月18-20日, 四川成都.
-3. CH Li, JS Huang, CL Liu, JH Dong, Y Du, ZL Lu, H Wang&, and **JZ Sun&**. Dual diffusion models with unified weight fusion for simultaneous denoising and deblurring in cardiac gated MP-SPECT. Paper accepted for oral presentation at the *2025 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 1-8, 2025. Yokohama, Japan. (Awarded Trainee Grant)
-4. JH Dong, JS Huang, CH Li, Y Du, ZL Lu, H Wang&, and **JZ Sun&**. A multi-attention deep learning-based denoising method incorporating patient-specific information for cardiac gated myocardial perfusion SPECT. Paper accepted for presentation at the *2025 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 1-8, 2025. Yokohama, Japan.
-5. CH Li, Yu D, CY Li, TH Wu, BH Yang, H Wang, ZL Lu, GSP Mok, and **JZ Sun&**. Low dose myocardial perfusion SPECT denoising using a fast generalized diffusion model. Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2025 Annual Meeting*, June 21-24, 2025. New Orleans, USA.
-6. JZ Sun, CH Li, Yu D, CY Li, TH Wu, BH Yang, H Wang, ZL Lu, and **JZ Sun&**. One-size-fits-all diffusion model for low dose myocardial perfusion SPECT denoising. Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2025 Annual Meeting*, June 21-24, 2025. New Orleans, USA.
-'
+category: conferences
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
+
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
