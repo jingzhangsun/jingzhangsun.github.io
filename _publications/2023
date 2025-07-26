@@ -1,0 +1,18 @@
+---
+title: "2023"
+collection: publications
+category: 2023
+permalink: /publications/2023/
+---
+<strong>Peer-reviewed Journal Papers</strong>
+- Y Du, H Jiang, CN Lin, ZY Peng, **JZ Sun**, PY Chiu, GU Hung^, and GSP Mok^. Generative adversarial network-based attenuation correction for 99mTc-TRODAT-1 brain SPECT. *Frontiers in Medicine*, 10, 2023.
+- ZL Lu, GF Chen, H Jiang, **JZ Sun**, K-H Lin, and GSP Mok^. SPECT and CT misregistration reduction in [99mTc] Tc-MAA SPECT/CT for precision liver radioembolization treatment planning. *European Journal of Nuclear Medicine and Molecular Imaging*. 50(8) 2023.
+- Y Du, JJ Shang, **JZ Sun**, L Wang, YH Liu, H Xu, and GSP Mok^. Deep-learning-based estimation of attenuation map improves attenuation correction performance over direct attenuation estimation for myocardial perfusion SPECT. *Journal of Nuclear Cardiology*. 30(3), 2023.
+- **JZ Sun**, H Jiang, Y Du, CY Li, TH Wu, YH Liu, BH Yang^, and GSP Mok^. Deep learning-based denoising in projection-domain and reconstruction-domain for low-dose myocardial perfusion SPECT. *Journal of Nuclear Cardiology*. 30(3), 2023. **(2024 Best Technical Paper Award of American Society of Nuclear Cardiology)**
+- **JZ Sun**, CY Li, Y Du, TH Wu, YH Liu, BH Yang^, and GSP Mok^. Fast myocardial perfusion SPECT denoising using an attention-guided generative adversarial network. *Frontiers in Medicine*. 10, 2023.
+<p><strong>Conference Proceedings</strong></p>
+- 
+<p><strong>Conference Presentation and Abstract</strong></p>
+- **孙敬张**，李建颖，吴东信，杨邦宏，刘义华，莫升萍^. 基于注意力机制的生成对抗网络对投影域低剂量心肌灌注SPECT降噪. *中华医学会核医学分会2023年学术年会*, 口头汇报, 2023年9月21-23日, 陕西西安.
+- **JZ Sun**, CY Li, TH Wu, BH Yang, and GSP Mok^. One-size-fits-all deep learning model for fast myocardial perfusion SPECT denoising. Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2023 Annual Meeting*, June 24-27, 2023. Chicago, Illinois, USA.
+- Y Du, **JZ Sun**, CY Li, TH Wu, BH Yang, and GSP Mok^. Frequency specific denoising for myocardial perfusion SPECT using deep learning. Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2023 Annual Meeting*, June 24-27, 2023. Chicago, Illinois, USA.
