@@ -1,6 +1,7 @@
 ---
 collection: publications
 category: Journal
-excerpt: '1. CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang^, and **JZ Sun^**. SMGDiff: Step mapping generalized diffusion model for efficient noise reduction in cardiac-gated myocardial perfusion SPECT images. *EJNMMI Physics* (Under review), 2025.'
-excerpt: '2. JH Dong, CG Huang, CH Li, CL Liu, Q Zhang, ZL Lu, Y Du, CJ Cao, and **JZ Sun^**. Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes. *Medical physics* (Under review), 2025.'
+excerpt: >–
+  1. CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang^, and **JZ Sun^**. SMGDiff: Step mapping generalized diffusion model for efficient noise reduction in cardiac-gated myocardial perfusion SPECT images. *EJNMMI Physics* (Under review), 2025.
+  2. JH Dong, CG Huang, CH Li, CL Liu, Q Zhang, ZL Lu, Y Du, CJ Cao, and **JZ Sun^**. Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes. *Medical physics* (Under review), 2025.
 ---
