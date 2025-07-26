@@ -1,8 +1,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-# title                    : "Your Name / Site Title"
-# title_separator          : "-"
+title                    : "SMILab"
+title_separator          : "-"
 name                     : &name "Jingzhang Sun"
 description              : &description "personal description"
 url                      : "https://jingzhangsun.github.io"
