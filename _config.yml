@@ -73,8 +73,8 @@ author:
 publication_category:
   2025:
     title: '2025'    
-  conferences:
-    title: 'Conference Papers'
+  2024:
+    title: '2024'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
