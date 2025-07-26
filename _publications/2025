@@ -11,3 +11,8 @@ permalink: /publications/2025/
 **Conference Proceedings**
 **Conference Presentation and Abstract**
 - 施彦坤，董佳慧，李春浩，黄江山，王卉^，**孙敬张**. 基于患者个性化病例数据的多模态深度学习心脏门控心肌灌注SPECT去噪方法. *中华医学会核医学分会2025年学术年会*, 口头汇报, 2025年9月18-20日, 四川成都.
+- 黄江山，李春浩，董佳慧，施彦坤，王卉^，**孙敬张**. 基于双扩散模型融合的心脏门控MP-SPECT图像增强方法. *中华医学会核医学分会2025年学术年会*, 口头汇报, 2025年9月18-20日, 四川成都.
+- CH Li, JS Huang, CL Liu, JH Dong, Y Du, ZL Lu, H Wang^, and **JZ Sun^**. Dual diffusion models with unified weight fusion for simultaneous denoising and deblurring in cardiac gated MP-SPECT. Paper accepted for oral presentation at the *2025 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 1-8, 2025. Yokohama, Japan. (Awarded Trainee Grant)
+- JH Dong, JS Huang, CH Li, Y Du, ZL Lu, H Wang*, and **JZ Sun^**. A multi-attention deep learning-based denoising method incorporating patient-specific information for cardiac gated myocardial perfusion SPECT. Paper accepted for presentation at the *2025 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 1-8, 2025. Yokohama, Japan.
+- CH Li, Yu D, CY Li, TH Wu, BH Yang, H Wang, ZL Lu, GSP Mok, and **JZ Sun^**. Low dose myocardial perfusion SPECT denoising using a fast generalized diffusion model. Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2025 Annual Meeting*, June 21-24, 2025. New Orleans, USA.
+- **JZ Sun**, CH Li, Yu D, CY Li, TH Wu, BH Yang, H Wang, ZL Lu, and GSP Mok^. One-size-fits-all diffusion model for low dose myocardial perfusion SPECT denoising. Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2025 Annual Meeting*, June 21-24, 2025. New Orleans, USA.
