@@ -1,5 +1,4 @@
 ---
-title: "Paper Title Number 4"
 collection: publications
 category: Journal
 excerpt: 'This paper is about fixing template issue #693.'
