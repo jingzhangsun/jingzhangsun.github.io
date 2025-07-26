@@ -71,8 +71,6 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  2025:
-    title: '2025'
   Journal:
     title: 'Peer-reviewed Journal Papers'    
   conferences:
