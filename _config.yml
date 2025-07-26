@@ -271,12 +271,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _intellectual property
+  # _talks
   - scope:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: talks
       author_profile: true
       share: true
 
