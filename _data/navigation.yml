@@ -16,18 +16,18 @@ main:
 
   - title: "Awards"
     url: /teaching/    
-    
-  - title: "Portfolio"
+  
+  - title: "Moments"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Team"
     url: /year-archive/
-    
-  - title: "CV"
+  
+  - title: "Acknowledgements"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
