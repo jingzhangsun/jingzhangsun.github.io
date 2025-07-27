@@ -19,3 +19,4 @@ permalink: /portfolio/moments/
 - <strong>10 September 2024, SMILab on 2024教师节</strong><br/><img src='/images/20240910.jpg'>
 - <strong>06 September 2024, Dr. Sun was awarded the 2024 Best Technical Paper Award of the Journal of Nuclear Cardiology from the American Society of Nuclear Cardiology</strong><br/><img src='/images/20240906.jpg'>
 - <strong>23 July 2024, Chunhao and Jiahui at 9th National Biomedical Engineering Innovation Design Competition for College Students</strong><br/><img src='/images/20240723.jpg'>
+
