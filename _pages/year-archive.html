@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 {% for post in site.posts %}
-  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <h2>{{ post.title }}</h2>
   {% include archive-single.html %}
 {% endfor %}
