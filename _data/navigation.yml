@@ -11,9 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  # Intellectual Property
   - title: "Talks"
     url: /talks/    
 
+  # Award
   - title: "Teaching"
     url: /teaching/    
     
