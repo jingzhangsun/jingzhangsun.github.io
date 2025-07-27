@@ -1,6 +1,6 @@
 ---
 collection: talks
-permalink: /talks/2012-03-01-talk-1/
+permalink: /talks/intellectual property
 ---
 <strong>Patent</strong>
 - **孙敬张**，刘春磊，李春浩，董佳慧，孙志刚，徐卓远，曹春杰. 基于VQGAN和广义扩散模型的SPECT影像重构方法和装置. 发明专利.
