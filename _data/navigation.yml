@@ -21,7 +21,7 @@ main:
     url: /portfolio/
         
   - title: "Team"
-    url: /year-archive/
+    url: /posts/
   
   - title: "Acknowledgements"
     url: /cv/
