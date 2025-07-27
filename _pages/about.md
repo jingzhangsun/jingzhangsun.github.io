@@ -13,9 +13,9 @@ Smart Medical Imaging Laboratory (SMILab) consists of eight members at present. 
 
 News
 ======
-- 2025/07/21 **Chunhao** was received the **First Place Award** at the 10th National Biomedical Engineering Innovation Design Competition for College Students
-- 2025/07/21 **Zhuoyuan** was received the **Second Place Award** at the 10th National Biomedical Engineering Innovation Design Competition for College Students
-- 2025/07/17 **Chunhao** was received the **Trainee award** at the 2025 IEEE NSS/MIC
+- 2025/07/21 **Chunhao** received the **First Place Award** at the 10th National Biomedical Engineering Innovation Design Competition for College Students
+- 2025/07/21 **Zhuoyuan** received the **Second Place Award** at the 10th National Biomedical Engineering Innovation Design Competition for College Students
+- 2025/07/17 **Chunhao** received the **Trainee award** at the 2025 IEEE NSS/MIC
 - 2025/07/04 Two summaries **(Jiahui & Chunhao)** were accepted by the 2025 IEEE NSS/MIC, one is **oral (Chunhao)**
 - 2025/03/22 **Chunhao**'s abstracts were accepted by the 2025 SNMMI
 - 2024/08/07 **Dr. Sun** was awarded the **2024 Best Technical Paper Award** of the Journal of Nuclear Cardiology from the American Society of Nuclear Cardiology
