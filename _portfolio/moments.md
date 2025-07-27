@@ -1,4 +1,4 @@
-<img width="1166" height="209" alt="image" src="https://github.com/user-attachments/assets/53affbf7-59a1-45a2-a318-4f84bd0ccaea" />---
+---
 title: ""
 collection: portfolio
 permalink: /portfolio/moments/
