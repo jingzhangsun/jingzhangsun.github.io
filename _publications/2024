@@ -8,7 +8,9 @@ permalink: /publications/2024/
 - ZY Peng, FW Zhang, Han Jiang, GC Liu, **JZ Sun**, Y Du, Y Wang^, and GSP Mok^. Deep learning-based low count whole-body positron emission tomography denoising incorporating computed tomography priors. *Quantitative Imaging in Medicine and Surgery*, 14(12), 8140, 2024.
 - Y Du, **JZ Sun**, CY Li, BH Yang, TH Wu, and GSP Mok^. Deep learning-based multi-frequency denoising for myocardial perfusion SPECT. *EJNMMI Physics*, 11(1), 80, 2024.
 - Q Zhang, ZB Ying, J Shen, S-K Kou, **JZ Sun**, and B Zhang^. Unsupervised color-based nuclei segmentation in histopathology images with various color spaces and K values selection. *International Journal of Image and Graphics*, (2550061), 2024.
+- BH Zou, CJ Cao^, LJ Wang, SZ Fu, TH Qiao, and **JZ Sun**. FACILE: A capsule network with fewer capsules and richer hierarchical information for malware image classification. *Computers & Security*, 137, 2024
 <p><strong>Conference Proceedings</strong></p>
+- TH Qiao, CJ Cao, BH Zou, FJ Tao, YN Cheng, Q Zhang, and **JZ Sun^**. A weighted discrete wavelet transform-based capsule network for malware classification. In Conference Record of *27th International Conference on Pattern Recognition (ICPR)*, 2024.
 - SY Yan, Q Zhang^, XZ Zhang, **JZ Sun**, JH Zhou. Multi-channel color space analysis for nuclei segmentation in histopathology images. In Conference Record of *7th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)*, 2024.
 <p><strong>Conference Presentation and Abstract</strong></p>
 - Y Du, **JZ Sun**, CY Li, BH Yang, TH Wu, and GSP Mok^. Myocardial perfusion SPECT denoising using an attention-guided generative adversarial network with integrated multi-frequency generators. Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2024 Annual Meeting*, June 8-11, 2024. Toronto, Canada.
