@@ -11,4 +11,4 @@ redirect_from:
 
 Collaborations
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<img src='/images/Collaborations1.jpg'>
