@@ -5,26 +5,26 @@ category: 2024
 permalink: /publications/2024/
 ---
 <strong>Peer-reviewed Journal Papers</strong>
-- **Deep learning-based low count whole-body positron emission tomography denoising incorporating computed tomography priors.**  
+- **[Deep learning-based low count whole-body positron emission tomography denoising incorporating computed tomography priors](https://pmc.ncbi.nlm.nih.gov/articles/PMC11652058/).**  
 ZY Peng, FW Zhang, Han Jiang, GC Liu, **JZ Sun**, Y Du, Y Wang^, and GSP Mok^.  
 *Quantitative Imaging in Medicine and Surgery*, 14(12), 8140, 2024.
-- **Deep learning-based multi-frequency denoising for myocardial perfusion SPECT.**  
+- **[Deep learning-based multi-frequency denoising for myocardial perfusion SPECT](https://link.springer.com/article/10.1186/s40658-024-00680-w).**  
 Y Du, **JZ Sun**, CY Li, BH Yang, TH Wu, and GSP Mok^.  
 *EJNMMI Physics*, 11(1), 80, 2024.
-- **Unsupervised color-based nuclei segmentation in histopathology images with various color spaces and K values selection.**  
+- **[Unsupervised color-based nuclei segmentation in histopathology images with various color spaces and K values selection](https://www.worldscientific.com/doi/epdf/10.1142/S0219467825500615).**  
 Q Zhang, ZB Ying, J Shen, S-K Kou, **JZ Sun**, and B Zhang^.  
 *International Journal of Image and Graphics*, (2550061), 2024.
-- **FACILE: A capsule network with fewer capsules and richer hierarchical information for malware image classification.**  
+- **[FACILE: A capsule network with fewer capsules and richer hierarchical information for malware image classification](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005163).**  
 BH Zou, CJ Cao^, LJ Wang, SZ Fu, TH Qiao, and **JZ Sun**.  
 *Computers & Security*, 137, 2024
 <p><strong>Conference Proceedings</strong></p>
-- **A weighted discrete wavelet transform-based capsule network for malware classification.**  
+- **[A weighted discrete wavelet transform-based capsule network for malware classification](https://link.springer.com/chapter/10.1007/978-3-031-78128-5_17).**  
 TH Qiao, CJ Cao, BH Zou, FJ Tao, YN Cheng, Q Zhang, and **JZ Sun^**.  
 In Conference Record of *27th International Conference on Pattern Recognition (ICPR)*, 2024.
-- **Multi-channel color space analysis for nuclei segmentation in histopathology images.**  
+- **[Multi-channel color space analysis for nuclei segmentation in histopathology images](https://ieeexplore.ieee.org/abstract/document/10826652).**  
 SY Yan, Q Zhang^, XZ Zhang, **JZ Sun**, JH Zhou.  
 In Conference Record of *7th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)*, 2024.
 <p><strong>Conference Presentation and Abstract</strong></p>
-- **Myocardial perfusion SPECT denoising using an attention-guided generative adversarial network with integrated multi-frequency generators.**
+- **[Myocardial perfusion SPECT denoising using an attention-guided generative adversarial network with integrated multi-frequency generators](https://jnm.snmjournals.org/content/65/supplement_2/241180.abstract).**
 Y Du, **JZ Sun**, CY Li, BH Yang, TH Wu, and GSP Mok^.  
 Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2024 Annual Meeting*, June 8-11, 2024. Toronto, Canada.
