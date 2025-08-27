@@ -13,6 +13,7 @@ Smart Medical Imaging Laboratory (SMILab) consists of eight members at present. 
 
 News
 ======
+- 2025/08/27 **Dr. Sun** was approved the National Natural Science Foundation of China (Young Scientists Fund-C)
 - 2025/07/28 **Binghui**'s full research paper was accepted by the IEEE Transactions on Dependable and Secure Computing (TDSC)
 - 2025/07/21 **Chunhao** received the **First Place Award** at the 10th National Biomedical Engineering Innovation Design Competition for College Students
 - 2025/07/21 **Zhuoyuan** received the **Second Place Award** at the 10th National Biomedical Engineering Innovation Design Competition for College Students
