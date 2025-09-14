@@ -6,43 +6,43 @@ permalink: /publications/2025/
 ---
 <strong>Peer-reviewed Journal Papers</strong>
 - **SMGDiff: Step mapping generalized diffusion model for efficient noise reduction in cardiac-gated myocardial perfusion SPECT images**  
-CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang^, and **JZ Sun^**  
+CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang*, and **JZ Sun^**  
 *EJNMMI Physics* (Under review), 2025
 - **Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes**  
 JH Dong, CG Huang, CH Li, CL Liu, Q Zhang, ZL Lu, Y Du, CJ Cao, and **JZ Sun***  
 *Medical physics* (Under review), 2025
 - **[JPEG-domain malware detection with pretrained lightweight vision transformer model](https://ieeexplore.ieee.org/abstract/document/11119437)**  
-BH Zou, CJ Cao^, FJ Tao, Y Sun, LJ Wang, YQ Zhang, and **JZ Sun^**  
+BH Zou, CJ Cao*, FJ Tao, Y Sun, LJ Wang, YQ Zhang, and **JZ Sun***  
 *IEEE Transactions on Dependable and Secure Computing*, 2025
 - **[基于图像域的轻量级恶意软件分类方法研究](https://www.joconline.com.cn/previewFile?id=76649060&type=pdf&lang=zh)**  
-**孙敬张**，程轶男，曹春杰^，邹炳慧，乔彤华，符思政，张琪  
+**孙敬张**，程轶男，曹春杰*，邹炳慧，乔彤华，符思政，张琪  
 *通信学报*，46(03), 2025
 - **[Proteome-wide association study for finding druggable targets in progression and onset of Parkinson's disease](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cns.70294)**  
-CH Gao, HB Zhou, WX Liang, ZF Wen, ZX Xie, CL Liao, LM He, **JZ Sun**, ZL Chen, NJ Yuan^, CG Huang^, and JW Zhang^  
+CH Gao, HB Zhou, WX Liang, ZF Wen, ZX Xie, CL Liao, LM He, **JZ Sun**, ZL Chen, NJ Yuan*, CG Huang*, and JW Zhang*  
 *CNS Neuroscience & Therapeutics*, 31(2), 2025  
 - **[Feature graph construction with static features for malware detection](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ise2/6687383)**  
-BH Zou, CJ Cao, LJ Wang^, YN Cheng, CX Dang, Y Liu, and **JZ Sun**  
+BH Zou, CJ Cao, LJ Wang*, YN Cheng, CX Dang, Y Liu, and **JZ Sun**  
 *IET Information Security*, (1) 2025
 <p><strong>Conference Proceedings</strong></p>
 - **Localization and elimination: object detection physical patch defense based on adversarial patch characterization**  
-ZS Zhou, SZ Fu, CJ Cao, FJ Tao, Q Zhang, and **JZ Sun^**  
+ZS Zhou, SZ Fu, CJ Cao, FJ Tao, Q Zhang, and **JZ Sun***  
 In Conference Record of the *2025 International Joint Conference on Neural Networks (IJCNN)*, 2025
 <p><strong>Conference Presentation and Abstract</strong></p>
 - **基于患者个性化病例数据的多模态深度学习心脏门控心肌灌注SPECT去噪方法**  
-施彦坤，董佳慧，李春浩，黄江山，王卉^，**孙敬张**  
-*中华医学会核医学分会2025年学术年会*, 口头汇报, 2025年9月18-20日, 四川成都
+施彦坤，董佳慧，李春浩，黄江山，王卉*，**孙敬张**  
+*中华医学会核医学分会2025年学术年会*, 2025年9月18-20日, 四川成都
 - **基于双扩散模型融合的心脏门控MP-SPECT图像增强方法**  
-黄江山，李春浩，董佳慧，施彦坤，王卉^，**孙敬张**  
-*中华医学会核医学分会2025年学术年会*, 口头汇报, 2025年9月18-20日, 四川成都
+黄江山，李春浩，董佳慧，施彦坤，王卉*，**孙敬张**  
+*中华医学会核医学分会2025年学术年会*, 2025年9月18-20日, 四川成都
 - **Dual diffusion models with unified weight fusion for simultaneous denoising and deblurring in cardiac gated MP-SPECT**  
-CH Li, JS Huang, CL Liu, JH Dong, Y Du, ZL Lu, H Wang^, and **JZ Sun^**  
+CH Li, JS Huang, CL Liu, JH Dong, Y Du, ZL Lu, H Wang*, and **JZ Sun***  
 Paper accepted for **oral presentation** at the *2025 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 1-8, 2025. Yokohama, Japan. **(Awarded Trainee Grant)**
 - **A multi-attention deep learning-based denoising method incorporating patient-specific information for cardiac gated myocardial perfusion SPECT**  
-JH Dong, JS Huang, CH Li, Y Du, ZL Lu, H Wang^, and **JZ Sun^**  
+JH Dong, JS Huang, CH Li, Y Du, ZL Lu, H Wang*, and **JZ Sun***  
 Paper accepted for presentation at the *2025 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 1-8, 2025. Yokohama, Japan
 - **[Low dose myocardial perfusion SPECT denoising using a fast generalized diffusion model](https://jnm.snmjournals.org/content/66/supplement_1/251714.abstract)**  
-CH Li, Yu D, CY Li, TH Wu, BH Yang, H Wang, ZL Lu, GSP Mok, and **JZ Sun^**  
+CH Li, Yu D, CY Li, TH Wu, BH Yang, H Wang, ZL Lu, GSP Mok, and **JZ Sun***  
 Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2025 Annual Meeting*, June 21-24, 2025. New Orleans, USA
 - **[One-size-fits-all diffusion model for low dose myocardial perfusion SPECT denoising](https://jnm.snmjournals.org/content/66/supplement_1/251558.abstract)**  
-**JZ Sun**, CH Li, Yu D, CY Li, TH Wu, BH Yang, H Wang, ZL Lu, and GSP Mok^  
+**JZ Sun**, CH Li, Yu D, CY Li, TH Wu, BH Yang, H Wang, ZL Lu, and GSP Mok*  
 Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2025 Annual Meeting*, June 21-24, 2025. New Orleans, USA
