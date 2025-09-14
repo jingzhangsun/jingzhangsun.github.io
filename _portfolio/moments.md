@@ -27,11 +27,11 @@ permalink: /portfolio/moments/
 - <strong>21 April 2024, SMILab at 2024海棠湾核素心肌灌注显像临床应用研讨会</strong><br/><img src='/images/20240421.jpg'>
 - <strong>13 April 2024, SMILab at 2024全国分子影像学术大会</strong><br/><img src='/images/20240413.jpg'>
 - <strong>16 March 2024, Chunhao and Jiahui at 北京协和医院2024第七届核医学AI先锋实战训练营</strong><br/><img src='/images/20240316.jpg'>
-- <strong>30 December 2023, SMILab on 2024 CNY gathering at HCC</strong><br/><img src='/images/20231230.jpg'>
+- <strong>30 December 2023, SMILab on 2024 CNY gathering</strong><br/><img src='/images/20231230.jpg'>
 - <strong>19 December 2023, Welcome Prof. Mok visit Hainan University</strong><br/><img src='/images/20231219.jpg'>
 - <strong>13 November 2023, Jingzhang at 2023 Hongkong Laureate Forum and visit CUHK</strong><br/><img src='/images/20231113.jpg'>
 - <strong>12 November 2023, SMILab received the Second Place Award at the 华为杯第二届中国研究生网络安全创新大赛</strong><br/><img src='/images/20231112.jpg'>
 - <strong>22 September 2023, Jingzhang at 中华医学会核医学分会2023学术年会</strong><br/><img src='/images/20230922.jpg'>
-- <strong>11 September 2023, Chunhao and Jiahui Joined SMILab</strong><br/><img src='/images/20230911.jpg'>
-- <strong>12 August 2023, Jingzhang a4 2023海棠湾分子影像论坛暨海南省医学会核医学分会2023学术年会</strong><br/><img src='/images/20230812.jpg'>
+- <strong>11 September 2023, Chunhao and Jiahui joined SMILab</strong><br/><img src='/images/20230911.jpg'>
+- <strong>12 August 2023, Jingzhang at 2023海棠湾分子影像论坛暨海南省医学会核医学分会2023学术年会</strong><br/><img src='/images/20230812.jpg'>
 - <strong>01 January 2023, Smart Medical Imaging Laboratory (SMILab) Launched at Hainan University</strong><br/><img src='/images/20230101.jpg'>
