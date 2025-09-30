@@ -4,6 +4,8 @@ collection: teaching
 type: ""
 permalink: /teaching/awards
 ---
+- **2025研究生国家奖学金(Chunhao Li)**
+- **2025本科生BYD奖学金(Chunlei Liu)**
 - **国家一等奖(Chunhao Li)**，2025第十届全国大学生生物医学工程创新设计竞赛——医工AI赋能赛
 - **国家二等奖(Zhuoyuan Xu)**，2025第十届全国大学生生物医学工程创新设计竞赛——中国生理信号挑战赛
 - **Trainee Award (Chunhao Li)**, 2025 IEEE NSS/MIC Conference
