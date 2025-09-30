@@ -13,6 +13,9 @@ Smart Medical Imaging Laboratory (SMILab) consists of ten members at present. To
 
 News
 ======
+- 2025/09/22 **Dr. Sun** was recognised as High-level Talent (Type D) of Hainan Free Trade Port (Youth Top-notch Talent Support Program of Hainan Province)
+- 2025/09/16 **Chunhao (Mater student)** was awarded National Scholarship
+- 2025/09/16 **Chunlei (Research assistant)** was awarded BYD Scholarship
 - 2025/08/27 **Dr. Sun** was approved by the National Natural Science Foundation of China (Young Scientists Fund-C)
 - 2025/07/28 **Binghui**'s full research paper was accepted by the IEEE Transactions on Dependable and Secure Computing (TDSC)
 - 2025/07/21 **Chunhao** received the **First Place Award** at the 10th National Biomedical Engineering Innovation Design Competition for College Students
