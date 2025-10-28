@@ -3,9 +3,9 @@ title: ""
 collection: portfolio
 permalink: /portfolio/moments/
 ---
-- <strong>20 October 2025, Dr. Sun, Chunhao, and Qian 参访海南医科大学第二附属医院肿瘤中心</strong><br/><img src='/images/20250922.jpg'>
-- <strong>19 October 2025, SMILab at 海南省医学会核医学分会2025学术年会</strong><br/><img src='/images/20250922.jpg'>
-- <strong>11 October 2025, Dr. Sun, Chunhao, and Zhuoyuan 参访海南医科大学第一附属医院核医学科</strong><br/><img src='/images/20250922.jpg'>
+- <strong>20 October 2025, Dr. Sun, Chunhao, and Qian 参访海南医科大学第二附属医院肿瘤中心</strong><br/><img src='/images/20251020.jpg'>
+- <strong>19 October 2025, SMILab at 海南省医学会核医学分会2025学术年会</strong><br/><img src='/images/20251019.jpg'>
+- <strong>11 October 2025, Dr. Sun, Chunhao, and Zhuoyuan 参访海南医科大学第一附属医院核医学科</strong><br/><img src='/images/20251011.jpg'>
 - <strong>22 September 2025, Dr. Sun, Chunhao, Zhigang, and Zhuiyuan 参访海口市人民医院（中南大学湘雅医学院附属海口医院）核医学科</strong><br/><img src='/images/20250922.jpg'>
 - <strong>20 September 2025, Dr. Sun, Chunhao, and Chunlei at 中华医学会第18届核医学学术大会暨2025年学术年会</strong><br/><img src='/images/20250920.jpg'>
 - <strong>10 September 2025, Happy Teacher's Day 2025</strong><br/><img src='/images/20250910-2.jpg'>
