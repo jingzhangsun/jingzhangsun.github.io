@@ -3,6 +3,7 @@ title: ""
 collection: portfolio
 permalink: /portfolio/moments/
 ---
+- <strong>22 September 2025, Dr. Sun, Chunhao, Zhigang, and Zhuiyuan 参访海口市人民医院（中南大学湘雅医学院附属海口医院）核医学科</strong><br/><img src='/images/20250922.jpg'>
 - <strong>20 September 2025, Dr. Sun, Chunhao, and Chunlei at 中华医学会第18届核医学学术大会暨2025年学术年会</strong><br/><img src='/images/20250920.jpg'>
 - <strong>10 September 2025, Happy Teacher's Day 2025</strong><br/><img src='/images/20250910-2.jpg'>
 - <strong>10 September 2025, Welcome Yansong Li, Chongzhi Li, Yuanhao Zhu, and Qian Wang for joining SMILab</strong><br/><img src='/images/20250910-1.jpg'>
