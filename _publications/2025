@@ -11,6 +11,9 @@ CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang�
 - **Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes**  
 JH Dong, CG Huang, CH Li, CL Liu, Q Zhang, ZL Lu, Y Du, CJ Cao, and **JZ Sun†**  
 *Medical physics* (Under review), 2025
+- **MADRNet: morphology-aware dual-path reversible network for sperm classification**  
+F Yang, **JZ Sun†**, HL Huang†, L Zhang, and JH Zhang  
+*IEEE Journal of Biomedical and Health Informatics*, 2025
 - **[JPEG-domain malware detection with pretrained lightweight vision transformer model](https://ieeexplore.ieee.org/abstract/document/11119437)**  
 BH Zou, CJ Cao†, FJ Tao, Y Sun, LJ Wang, YQ Zhang, and **JZ Sun†**  
 *IEEE Transactions on Dependable and Secure Computing*, 2025
