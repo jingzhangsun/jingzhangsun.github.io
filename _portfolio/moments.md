@@ -3,7 +3,7 @@ title: ""
 collection: portfolio
 permalink: /portfolio/moments/
 ---
-- <strong>26 November 2025, Jiahui's full paper was tentatively accepted by Medical Physics</strong><br/><img src='/images/20251126.jpg'>
+- <strong>26 November 2025, Jiahui's full paper was tentatively accepted by Medical Physics </strong><br/><img src='/images/20251126.jpg'>
 - <strong>10 November 2025, Chunhao visited BIG, University of Macau as an exchange student</strong><br/><img src='/images/20251110.jpg'>
 - <strong>08 November 2025, Dr. Sun, Chunhao, and Jiahui @ IEEE NSS/MIC, Yokohama, Japan</strong><br/><img src='/images/20251108.jpg'>
 - <strong>20 October 2025, Dr. Sun, Chunhao, and Qian 参访海南医科大学第二附属医院肿瘤中心</strong><br/><img src='/images/20251020.jpg'>
