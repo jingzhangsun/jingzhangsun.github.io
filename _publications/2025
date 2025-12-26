@@ -10,8 +10,8 @@ CL Liu, YK Shi, ZM Fu, CH Li, JS Huang, B Tao, CJ Cao, GSP Mok†, **JZ Sun†**
 *IEEE Transactions on Radiation and Plasma Medical Sciences* (Under review), 2025
 - **SMGDiff: Step mapping generalized diffusion model for efficient noise reduction in cardiac-gated myocardial perfusion SPECT images**  
 CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang†, and **JZ Sun†**  
-*EJNMMI Physics* (Under review), 2025
-- **Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes**  
+*EJNMMI Physics*, 2025
+- **[Personalized echocardiographic segmentation via a Bert-text-based y-shaped network with patient attributes](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70235)**  
 JH Dong, CG Huang, CH Li, CL Liu, Q Zhang, ZL Lu, Y Du, CJ Cao, and **JZ Sun†**  
 *Medical physics*, 2025
 - **[Interpretable-generative machine learning approaches for predicting simultaneous removal of organic pollutants and heavy metals from water by adsorbent materials](https://www.sciencedirect.com/science/article/abs/pii/S0959652625023376)**  
@@ -49,10 +49,10 @@ In Conference Record of the *2025 International Joint Conference on Neural Netwo
 - **基于双扩散模型融合的心脏门控MP-SPECT图像增强方法**  
 黄江山，李春浩，董佳慧，施彦坤，王卉†，**孙敬张**  
 *中华医学会核医学分会2025年学术年会*, 2025年9月18-20日, 四川成都
-- **Dual diffusion models with unified weight fusion for simultaneous denoising and deblurring in cardiac gated MP-SPECT**  
+- **[Dual diffusion models with unified weight fusion for simultaneous denoising and deblurring in cardiac gated MP-SPECT](https://ieeexplore.ieee.org/document/11287736)**  
 CH Li, JS Huang, CL Liu, JH Dong, Y Du, ZL Lu, H Wang†, and **JZ Sun†**  
 Paper accepted for **oral presentation** at the *2025 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 1-8, 2025. Yokohama, Japan. **(Awarded Trainee Grant)**
-- **A multi-attention deep learning-based denoising method incorporating patient-specific information for cardiac gated myocardial perfusion SPECT**  
+- **[A multi-attention deep learning-based denoising method incorporating patient-specific information for cardiac gated myocardial perfusion SPECT](https://ieeexplore.ieee.org/document/11287664)**  
 JH Dong, JS Huang, CH Li, Y Du, ZL Lu, H Wang†, and **JZ Sun†**  
 Paper accepted for presentation at the *2025 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 1-8, 2025. Yokohama, Japan
 - **[Low dose myocardial perfusion SPECT denoising using a fast generalized diffusion model](https://jnm.snmjournals.org/content/66/supplement_1/251714.abstract)**  
