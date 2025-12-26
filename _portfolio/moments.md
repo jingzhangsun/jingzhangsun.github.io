@@ -3,7 +3,10 @@ title: ""
 collection: portfolio
 permalink: /portfolio/moments/
 ---
-- <strong>26 November 2025, Jiahui's full paper was tentatively accepted by Medical Physics </strong><br/><img src='/images/20251126.jpg'>
+- <strong>15 December 2025, Chunhao's full paper was accepted by EJNMMI Physics </strong><br/><img src='/images/20251215.jpg'>
+- <strong>06 December 2025, Prof. Mok and SMILaber at 铜鼓岭，文昌，海南 </strong><br/><img src='/images/20251206-1.jpg'>
+- <strong>06 December 2025, Dr. Sun have talk at 2025年海南省抗癌协会精准放疗与综合治疗专业委员会年会暨第一届海南自贸港肿瘤学国际峰会 </strong><br/><img src='/images/20251206.jpg'>
+- <strong>26 November 2025, Jiahui's full paper was accepted by Medical Physics </strong><br/><img src='/images/20251126.jpg'>
 - <strong>10 November 2025, Chunhao visited BIG, University of Macau as an exchange student</strong><br/><img src='/images/20251110.jpg'>
 - <strong>08 November 2025, Dr. Sun, Chunhao, and Jiahui @ IEEE NSS/MIC, Yokohama, Japan</strong><br/><img src='/images/20251108.jpg'>
 - <strong>20 October 2025, Dr. Sun, Chunhao, and Qian 参访海南医科大学第二附属医院肿瘤中心</strong><br/><img src='/images/20251020.jpg'>
