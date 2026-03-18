@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Researcher at Hainan University since 2023, working on [Nuclear Medicine Image Processing, Medical Physics, and Artificial Intelligence-based Security](https://scs.hainanu.edu.cn/info/1051/2659.htm). Prior to this, I obtained my Ph.D. from the University of Macau, advised by [Prof. Greta S.P. Mok](https://big.fst.um.edu.mo/) at Biomedical ImaginG Laboratory (BIG) in Department of Electrical and Computer Engineering.
+I am currently an Associate Professor at Hainan University since 2023, working on [Nuclear Medicine Image Processing and Medical Physics](https://scs.hainanu.edu.cn/info/1051/2659.htm). Prior to this, I obtained my Ph.D. from the University of Macau, advised by [Prof. Greta S.P. Mok](https://big.fst.um.edu.mo/) at Biomedical ImaginG Laboratory (BIG) in Department of Electrical and Computer Engineering.
 
-Smart Medical Imaging Laboratory (SMILab) consists of 12 members at present. To date, we have 2 research articles accepted at Medical Physics and EJNMMI Physics, 2 abstracts accepted at the annual meeting of the Society of Nuclear Medicine and Molecular Imaging (SNMMI), as well as 2 summaries accepted at the IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC) with 1 oral presentation (To be updated).
+Smart Medical Imaging Laboratory (SMILab) consists of 12 members at present. To date, we have 2 research articles accepted at Medical Physics and EJNMMI Physics, 4 abstracts accepted at the annual meeting of the Society of Nuclear Medicine and Molecular Imaging (SNMMI), as well as 2 summaries accepted at the IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC) with 1 oral presentation (To be updated).
 
 News
 ======
-- 2025/12/15 **Chunhao(Year 3 Master student)**'s full research paper was accepted by the EJNMMI Physics
-- 2025/11/26 **Jiahui(Year 3 Master student)**'s full research paper was accepted by the Medical Physics.
-- 2025/10/24 **Chunhao(Year 3 Master student)** and **Zhuoyuan(Year 2 Master student)** were awarded Outstanding Graduate Student of HNU in 2025.
+- 2026/03/17 **Chunhao(Master student)** and **Zhuoyuan(Master student)**'s abstracts were accepted by the 2026 SNMMI
+- 2025/12/15 **Chunhao(Master student)**'s full research paper was accepted by the EJNMMI Physics
+- 2025/11/26 **Jiahui(Master student)**'s full research paper was accepted by the Medical Physics
+- 2025/10/24 **Chunhao(Master student)** and **Zhuoyuan(Master student)** were awarded Outstanding Graduate Student of HNU in 2025
 - 2025/09/22 **Dr. Sun** was recognised as High-level Talent (Type D) of Hainan Free Trade Port (Youth Top-notch Talent Support Program of Hainan Province)
 - 2025/09/16 **Chunhao(Master student)** was awarded National Scholarship
 - 2025/09/16 **Chunlei(Research assistant)** was awarded BYD Scholarship
