@@ -8,10 +8,10 @@ permalink: /publications/2026/
 - **Dual diffusion models with unified weight fusion framework for simultaneous denoising and motion artifacts reduction in cardiac-gated myocardial perfusion SPECT**  
 CL Liu, YK Shi, ZM Fu, CH Li, JS Huang, B Tao, CJ Cao, GSP Mok†, **JZ Sun†**, and H Wang†   
 *IEEE Transactions on Radiation and Plasma Medical Sciences* (Major), 2025
-
 <p><strong>Conference Proceedings</strong></p>
-- **[Localization and elimination: object detection physical patch defense based on adversarial patch characterization](https://ieeexplore.ieee.org/document/11227215/keywords#keywords)**  
-ZS Zhou, SZ Fu, CJ Cao, FJ Tao, Q Zhang, and **JZ Sun†**  
-In Conference Record of the *2025 International Joint Conference on Neural Networks (IJCNN)*, 2025
-<p><strong>Conference Presentation and Abstract</strong></p>
-
+- **ROI-free deep learning for global and split GFR estimation and CKD classification from dynamic 99mTc-DTPA planar renography**  
+ZY Xu, H Xiao†, W Sun, JJ Yan, JQ Zhong, JL Li, CH Li, and **JZ Sun†**  
+Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2026 Annual Meeting*, 2026
+- **Unsupervised Registration-Guided Diffusion Model for Motion-Corrected Denoising in Cardiac-Gated Myocardial Perfusion SPECT**  
+CH Li, ZM Fu, ZJ Fang, YK Shi, JS Huang, RX Huang, HY Wang, X Li, H Wang†, **JZ Sun†**, and GSP Mok†  
+Paper accepted for presentation at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2026 Annual Meeting*, 2026
