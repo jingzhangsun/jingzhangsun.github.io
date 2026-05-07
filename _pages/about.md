@@ -9,9 +9,18 @@ redirect_from:
 
 I am currently an Associate Professor at Hainan University since 2023, working on [Nuclear Medicine Image Processing and Medical Physics](https://scs.hainanu.edu.cn/info/1051/2659.htm). Prior to this, I obtained my Ph.D. from the University of Macau, advised by [Prof. Greta S.P. Mok](https://big.fst.um.edu.mo/) at Biomedical ImaginG Laboratory (BIG) in Department of Electrical and Computer Engineering.
 
-Smart Medical Imaging Laboratory (SMILab) aim to develop trustworthy artificial intelligence methods for quantitative nuclear medicine and medical image analysis. Our research focuses on low-count SPECT/PET image reconstruction, motion and noise correction, attenuation correction, renal and cardiac functional quantification, and clinically reliable decision-support models. We aim to translate AI-based imaging methods into robust, interpretable, and scalable tools for nuclear medicine practice.
-
 SMILab consists of 14 members at present. To date, we have 3 research articles accepted at IEEE Transactions on Radiation and Plasma Medical Sciences, Medical Physics and EJNMMI Physics, 6 abstracts accepted at the annual meeting of the Society of Nuclear Medicine and Molecular Imaging (SNMMI) with 1 oral presentation, as well as 2 summaries accepted at the IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC) with 1 oral presentation (To be updated).
+
+Research
+======
+SMILab develops trustworthy artificial intelligence methods for quantitative nuclear medicine and medical image analysis. We aim to translate AI-based imaging methods into robust, interpretable, and scalable tools for nuclear medicine practice.
+**Low-count Cardiac SPECT/PET Restoration and Quantification**
+We develop AI-enabled restoration and quantitative imaging methods for low-count cardiac nuclear medicine, with a focus on myocardial perfusion SPECT/PET under reduced dose, shortened acquisition, and gated imaging conditions. Our work addresses image noise, motion artifacts, temporal inconsistency, and quantitative bias while preserving clinically relevant cardiac indices.
+(1) Develop deep learning and diffusion-based methods for low-dose myocardial perfusion SPECT denoising and quantitative recovery.
+(Sun et al. Medical Physics 2022) (Sun et al. J Nucl Cardiol 2023) (Du et al. EJNMMI Physics 2024) (Li et al. EJNMMI Physics 2026)
+(2) Improve cardiac-gated SPECT image quality by jointly reducing noise, motion artifacts, and blur-related degradation.
+(Li et al. IEEE NSS/MIC 2025) (Liu et al. IEEE TRPMS 2026) (Li et al. SNMMI 2026)
+(3) Preserve clinically relevant cardiac indices, including perfusion scores, polar-map patterns, LV function, and gated functional parameters.
 
 News
 ======
