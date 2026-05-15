@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently an Associate Professor at Hainan University since 2023, working on [Nuclear Medicine Image Processing and Medical Physics](https://scs.hainanu.edu.cn/info/1051/2659.htm). Prior to this, I obtained my Ph.D. from the University of Macau, advised by [Prof. Greta S.P. Mok](https://big.fst.um.edu.mo/) at Biomedical ImaginG Laboratory (BIG) in Department of Electrical and Computer Engineering.
 
-SMILab consists of 14 members at present. To date, we have 3 research articles accepted at IEEE Transactions on Radiation and Plasma Medical Sciences, Medical Physics and EJNMMI Physics, 6 abstracts accepted at the annual meeting of the Society of Nuclear Medicine and Molecular Imaging (SNMMI) with 1 oral presentation, as well as 2 summaries accepted at the IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC) with 1 oral presentation (To be updated).
+SMILab consists of 14 members at present. To date, we have 3 research articles accepted at IEEE TRPMS, Med. Phy., and EJNMMI Phy., 6 abstracts accepted at the annual meeting of the SNMMI with 1 oral presentation, as well as 2 summaries accepted at the IEEE NSS/MIC with 1 oral presentation (To be updated).
 
 Research
 ======
