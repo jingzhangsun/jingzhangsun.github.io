@@ -4,6 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/awards
 ---
+- **Travel Award (Chunhao Li)**, 2026 SNMMI Annual Meeting
 - **2024-2025年度海南大学优秀研究生（Chunhao Li and Zhuoyuan Xu）**
 - **2025研究生国家奖学金(Chunhao Li)**
 - **2025本科生BYD奖学金(Chunlei Liu)**
