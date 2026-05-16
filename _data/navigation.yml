@@ -15,22 +15,17 @@ main:
     url: /publications/
 
   - title: "Intellectual Property"
-    url: /talks/
+    url: /intellectual-property/
 
   - title: "Awards"
-    url: /teaching/    
+    url: /awards/    
   
   - title: "Moments"
-    url: /portfolio/
+    url: /moments/
         
   - title: "Team"
-    url: /year-archive/
+    url: /team/
   
   - title: "Acknowledgements"
-    url: /cv/
+    url: /acknowledgements/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
