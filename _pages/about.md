@@ -9,26 +9,11 @@ redirect_from:
 
 I am currently an Associate Professor at Hainan University since 2023, working on [Nuclear Medicine Image Processing and Medical Physics](https://scs.hainanu.edu.cn/info/1051/2659.htm). Prior to this, I obtained my Ph.D. from the University of Macau, advised by [Prof. Greta S.P. Mok](https://big.fst.um.edu.mo/) at Biomedical ImaginG Laboratory (BIG) in Department of Electrical and Computer Engineering.
 
-SMILab consists of 14 members at present. To date, we have 3 research articles accepted at IEEE TRPMS, Med. Phy., and EJNMMI Phy., 6 abstracts accepted at the annual meeting of the SNMMI with 1 oral presentation, as well as 2 summaries accepted at the IEEE NSS/MIC with 1 oral presentation (To be updated).
-
-Research
-======
-SMILab develops trustworthy artificial intelligence methods for quantitative nuclear medicine and medical image analysis. We aim to translate AI-based imaging methods into robust, interpretable, and scalable tools for nuclear medicine practice.  
-
-**Low-count Cardiac SPECT/PET Restoration and Quantification**  
-We develop AI-enabled restoration and quantitative imaging methods for low-count cardiac nuclear medicine, with a focus on myocardial perfusion SPECT/PET under reduced dose, shortened acquisition, and gated imaging conditions. Our work addresses image noise, motion artifacts, temporal inconsistency, and quantitative bias while preserving clinically relevant cardiac indices.  
-(1) Develop deep learning and diffusion-based methods for low-dose myocardial perfusion SPECT denoising and quantitative recovery.  
-(Sun et al. Medical Physics 2022) (Sun et al. J Nucl Cardiol 2023) (Du et al. EJNMMI Physics 2024) (Li et al. EJNMMI Physics 2026)
-(2) Improve gated SPECT image quality by jointly reducing noise, motion artifacts, and blur-related degradation.  
-(Li et al. IEEE NSS/MIC 2025) (Liu et al. IEEE TRPMS 2026) (Li et al. SNMMI 2026)
-
-**ROI-free dynamic nuclear medicine imaging**  
-We develop ROI-free learning methods for dynamic nuclear medicine imaging. This direction aims to reduce dependence on manual region-of-interest delineation and improve the scalability of functional image analysis.  
-(1) Estimate global and split renal function directly from dynamic 99mTc-DTPA planar renography.(Xu et al. SNMMI 2026)  
-(2) Perform GFR-based CKD classification without contour-based kidney or background ROI tracing.(Xu et al. SNMMI 2026)  
+**S**mart **M**edical **I**maging **Lab**oratory (SMILab) consists of 14 members at present. To date, we have 3 research articles accepted at IEEE TRPMS, Med. Phy., and EJNMMI Phy., 6 abstracts accepted at the annual meeting of the SNMMI with 1 oral presentation, as well as 2 summaries accepted at the IEEE NSS/MIC with 1 oral presentation (To be updated).
 
 News
 ======
+- 2026/05/07 **Chunhao(Master student)**'s abstract was included in the Image Generation portion of the PIDS Basic Science Summary Session for the 2026 SNMMI
 - 2026/04/24 **Chunhao(Master student)** was awarded Annual Meeting Travel Awards for the 2026 SNMMI
 - 2026/04/19 **Chunlei(Research assistant, year 3)**'s full research paper was accepted by the IEEE Transactions on Radiation and Plasma Medical Sciences (TRPMS)
 - 2026/03/17 Two abstracts **Chunhao(Master student)** and **Zhuoyuan(Master student)**'s were accepted by the 2026 SNMMI, one is **oral (Zhuoyuan)**
