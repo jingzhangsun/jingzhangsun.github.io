@@ -2,6 +2,8 @@
 title: "Research"
 permalink: /research/
 layout: single
+author_profile: false
+classes: wide
 ---
 
 SMILab develops trustworthy artificial intelligence methods for quantitative nuclear medicine and medical image analysis. We aim to translate AI-based imaging methods into robust, interpretable, and scalable tools for nuclear medicine practice.
