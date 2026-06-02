@@ -10,8 +10,8 @@ classes: team-wide
 <strong>Trainee</strong>
 <img src='/images/student1.jpg'>
 <img src='/images/student2.jpg'>
-<strong>Alumni</strong>
-<strong>Graduate Student</strong>
+<strong>Alumni</strong>  
+<strong>Graduate Student</strong>  
 - Tonghua Qiao(M.S., 2025, co-supervisor), China Mobile, Guiyang
 - Haochen Li(M.S., 2025, co-supervisor), China Telecom, Bengbu
 - Yinglin Wang(M.S., 2025, co-supervisor), China Unicom, Haikou
@@ -28,8 +28,8 @@ classes: team-wide
 - Haifeng Peng(M.S., 2023, co-supervisor), China Telecom, Chengdu
 - Daling Shi(M.S., 2023, co-supervisor), The People's Bank Of China, Haikou
 - Haokun Sui(M.S., 2023, co-supervisor), Shenwan Hongyuan Securities, Beijing
-- Xiaoyu Lin(M.S., 2023, co-supervisor), Industrial and Commercial Bank of China, Putian
-<strong>Final Year Project</strong>
+- Xiaoyu Lin(M.S., 2023, co-supervisor), Industrial and Commercial Bank of China, Putian  
+<strong>Final Year Project</strong>  
 - Hao Lin(2026), M.S. at Xiamen University
 - Lehan Hu(2026), M.S. at Wuhan University
 - Ziru Wang(2026), M.S. at Xidian University
