@@ -2,10 +2,12 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
+ * 中文维护说明：
+ * 这个文件控制 /_sass 中哪些主题样式会进入最终的 assets/css/main.css。
+ * 当前网站已经移除博客、作品集等归档页面，因此不再导入对应的归档样式。
  *
  * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import
@@ -33,7 +35,6 @@
     "layout/forms",
 
     "layout/page",
-    "layout/archive",
     "layout/sidebar",
 
     "vendor/font-awesome/fontawesome",

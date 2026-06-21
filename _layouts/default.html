@@ -4,6 +4,12 @@ layout: compress
 
 {% include base_path %}
 
+{% comment %}
+  中文维护说明：
+  这是全站基础骨架。正式页面通过 _layouts/single.html 注入 content。
+  未使用的评论、统计、演讲地图等模板功能已从 footer/scripts 中移除。
+{% endcomment %}
+
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>

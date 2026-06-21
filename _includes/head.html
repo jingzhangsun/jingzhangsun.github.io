@@ -4,7 +4,13 @@
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+{% comment %}
+  中文维护说明：
+  当前站点隐藏订阅入口；以后需要恢复时，再打开下面这段订阅链接。
+{% endcomment %}
+{% if site.atom_feed.hide != true %}
+  <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+{% endif %}
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
