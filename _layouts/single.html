@@ -11,7 +11,7 @@ layout: default
   这里刻意不渲染评论、分享、上一篇/下一篇和 taxonomy，避免模板残留功能增加维护成本。
 {% endcomment %}
 
-<div id="main" role="main">
+<div id="main"{% unless has_author_profile %} class="main--full"{% endunless %} role="main">
   {% if has_author_profile %}
     {% include sidebar.html %}
   {% endif %}

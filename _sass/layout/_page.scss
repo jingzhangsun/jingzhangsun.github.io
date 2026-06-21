@@ -14,6 +14,17 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+
+  /*
+   * 中文维护说明：
+   * 非主页内容页使用整页宽度，避免保留作者侧栏留下的空白区域。
+   */
+  &.main--full {
+    max-width: none;
+    width: 100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .page {
@@ -29,9 +40,14 @@
    */
   &.page--full {
     @include breakpoint($large) {
-      @include span(12 of 12);
-      @include prefix(0);
-      @include suffix(0);
+      float: none;
+      clear: both;
+      width: 100%;
+      max-width: none;
+      margin-left: 0;
+      margin-right: 0;
+      padding-left: 0;
+      padding-right: 0;
     }
   }
 
