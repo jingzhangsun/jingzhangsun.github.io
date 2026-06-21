@@ -23,6 +23,18 @@
     @include suffix(2 of 12);
   }
 
+  /*
+   * 中文维护说明：
+   * 除主页外，普通内容页不显示作者侧栏，因此需要占满主内容区域。
+   */
+  &.page--full {
+    @include breakpoint($large) {
+      @include span(12 of 12);
+      @include prefix(0);
+      @include suffix(0);
+    }
+  }
+
   .page__inner-wrap {
     @include full();
 
