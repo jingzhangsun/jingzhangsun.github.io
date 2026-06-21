@@ -17,7 +17,7 @@ classes: wide
   {% for item in site.publications reversed %}
     {% if item.category == category_key %}
       <h2>{{ category_title }}</h2>
-      {{ item.content }}
+      {{ item.content | markdownify }}
     {% endif %}
   {% endfor %}
 {% endfor %}

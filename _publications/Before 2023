@@ -4,9 +4,10 @@ collection: publications
 category: Before 2023
 permalink: /publications/Before 2023/
 ---
-<strong>Peer-reviewed Journal Papers</strong>
+### Peer-reviewed Journal Papers
+
 - **[Pix2Pix generative adversarial network for low dose myocardial perfusion SPECT denoising](https://pmc.ncbi.nlm.nih.gov/articles/PMC9246746/)**  
-**JZ Sun**, Y Du, CY Li, TH Wu, BH Yang, and GSP Mok†  
+**JZ Sun**, Y Du, CY Li, TH Wu, BH Yang, and GSP Mok† 
 *Quantitative Imaging in Medicine and Surgery*. 12(7), 2022
 - **[Dual gating myocardial perfusion SPECT denoising using a conditional generative adversarial network](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15707)**  
 **JZ Sun**, Q Zhang, Y Du, D Zhang, PH Pretorius, MA King, and GSP Mok†  
@@ -14,9 +15,10 @@ permalink: /publications/Before 2023/
 - **[Clinical evaluation of three respiratory gating schemes for different respiratory patterns on cardiac SPECT](https://pmc.ncbi.nlm.nih.gov/articles/PMC7721994/pdf/nihms-1616745.pdf)**  
 D Zhang, **JZ Sun**, PH Pretorius, MA King and GSP Mok†  
 *Medical physics*, 47(9), 2020
-<p><strong>Conference Presentation and Abstract</strong></p>
+### Conference Presentation and Abstract
+
 - **[Low dose myocardial perfusion SPECT denoising using an attention-guided generative adversarial network](https://ieeexplore.ieee.org/abstract/document/10399080)**  
-**JZ Sun**, CY Li, Y Du, TH Wu, BH Yang, YH Liu, and GSP Mok†  
+**JZ Sun**, CY Li, Y Du, TH Wu, BH Yang, YH Liu, and GSP Mok† 
 Paper accepted for **oral presentation** at *2022 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 5-12, 2022. Milano, Italy. **(Awarded Trainee Grant)**
 - **[The effect of mismatch between SPECT and CT images on deep learning-based attenuation correction for myocardial perfusion SPECT](https://ieeexplore.ieee.org/abstract/document/10399202)**  
 Y Du, J Shang, **JZ Sun**, L Wang, H Xu, and GSP Mok†  
