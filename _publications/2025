@@ -4,8 +4,7 @@ collection: publications
 category: 2025
 permalink: /publications/2025/
 ---
-### Peer-reviewed Journal Papers
-
+### Peer-reviewed Journal Papers  
 - **[SMGDiff: Step mapping generalized diffusion model for efficient noise reduction in cardiac-gated myocardial perfusion SPECT images](https://link.springer.com/content/pdf/10.1186/s40658-025-00825-5.pdf)**  
 CH Li, JS Huang, JH Dong, CL Liu, YK Shi, Y Du, ZL Lu, CJ Cao, GSP Mok, H Wang†, and **JZ Sun†**  
 *EJNMMI Physics*, 2025
@@ -27,8 +26,8 @@ BH Zou, CJ Cao†, FJ Tao, Y Sun, LJ Wang, YQ Zhang, and **JZ Sun†**
 - **[Proteome-wide association study for finding druggable targets in progression and onset of Parkinson's disease](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cns.70294)**  
 CH Gao, HB Zhou, WX Liang, ZF Wen, ZX Xie, CL Liao, LM He, **JZ Sun**, ZL Chen, NJ Yuan†, CG Huang†, and JW Zhang†  
 *CNS Neuroscience & Therapeutics*, 31(2), 2025  
-### Conference Presentation and Abstract
 
+### Conference Presentation and Abstract  
 - **基于患者个性化病例数据的多模态深度学习心脏门控心肌灌注SPECT去噪方法**  
 施彦坤，董佳慧，李春浩，黄江山，王卉†，**孙敬张**  
 *中华医学会核医学分会2025年学术年会*, 2025年9月18-20日, 四川成都
