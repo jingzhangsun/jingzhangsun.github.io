@@ -5,6 +5,7 @@ layout: single
 author_profile: false
 classes: wide
 ---
+- **海南大学2026年“大学生年度人物”提名奖（Zhuoyuan Xu）**
 - **Travel Award (Chunhao Li)**, 2026 SNMMI Annual Meeting
 - **2024-2025年度海南大学优秀研究生（Chunhao Li and Zhuoyuan Xu）**
 - **2025研究生国家奖学金(Chunhao Li)**
