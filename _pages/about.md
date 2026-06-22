@@ -13,8 +13,10 @@ I am currently an Associate Professor at Hainan University since 2023, working o
 
 News
 ======
-- 2026/05/07 **Chunhao(Master student)**'s abstract was included in the Image Generation portion of the PIDS Basic Science Summary Session for the 2026 SNMMI
-- 2026/04/24 **Chunhao(Master student)** was awarded Annual Meeting Travel Awards for the 2026 SNMMI
+- 2026/06/14 **Chunhao(Master student)** received the College Student of the Year Nomination Award (2026)
+- 2026/05/19 **Zhuoyuan(Master student)**'s abstract was included PIDSC Basic Science Summary Session of 2026 SNMMI
+- 2026/05/07 **Chunhao(Master student)**'s abstract was included in the Image Generation portion of the PIDS Basic Science Summary Session for the 2026 SNMMI 
+- 2026/04/24 **Chunhao(Master student)** was awarded Annual Meeting Travel Awards ($1,000) for the 2026 SNMMI
 - 2026/04/19 **Chunlei(Research assistant, year 3)**'s full research paper was accepted by the IEEE Transactions on Radiation and Plasma Medical Sciences (TRPMS)
 - 2026/03/17 Two abstracts **Chunhao(Master student)** and **Zhuoyuan(Master student)**'s were accepted by the 2026 SNMMI, one is **oral (Zhuoyuan)**
 - 2025/12/15 **Chunhao(Master student)**'s full research paper was accepted by the EJNMMI Physics
