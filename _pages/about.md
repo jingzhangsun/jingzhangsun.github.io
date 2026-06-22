@@ -13,7 +13,7 @@ I am currently an Associate Professor at Hainan University since 2023, working o
 
 News
 ======
-- 2026/06/14 **Chunhao(Master student)** received the College Student of the Year Nomination Award (2026)
+- 2026/06/14 **Zhuoyuan(Master student)** received the College Student of the Year Nomination Award (2026)
 - 2026/05/19 **Zhuoyuan(Master student)**'s abstract was included PIDSC Basic Science Summary Session of 2026 SNMMI
 - 2026/05/07 **Chunhao(Master student)**'s abstract was included in the Image Generation portion of the PIDS Basic Science Summary Session for the 2026 SNMMI 
 - 2026/04/24 **Chunhao(Master student)** was awarded Annual Meeting Travel Awards ($1,000) for the 2026 SNMMI
