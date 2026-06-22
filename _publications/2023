@@ -4,8 +4,7 @@ collection: publications
 category: 2023
 permalink: /publications/2023/
 ---
-### Peer-reviewed Journal Papers
-
+### Peer-reviewed Journal Papers  
 - **[Generative adversarial network-based attenuation correction for 99mTc-TRODAT-1 brain SPECT](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1171118/full)**  
 Y Du, H Jiang, CN Lin, ZY Peng, **JZ Sun**, PY Chiu, GU Hung†, and GSP Mok† 
 *Frontiers in Medicine*, 10, 2023
@@ -20,9 +19,9 @@ Y Du, JJ Shang, **JZ Sun**, L Wang, YH Liu, H Xu, and GSP Mok†
 *Journal of Nuclear Cardiology*. 30(3), 2023. **([2024 Best Technical Paper Award of American Society of Nuclear Cardiology](https://www.fst.um.edu.mo/news/ums-research-team-receives-best-technical-paper-award-at-the-annual-scientific-meeting-of-the-american-society-of-nuclear-cardiology/))**
 - **[Fast myocardial perfusion SPECT denoising using an attention-guided generative adversarial network](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1083413/full)**  
 **JZ Sun**, CY Li, Y Du, TH Wu, YH Liu, BH Yang†, and GSP Mok†  
-*Frontiers in Medicine*. 10, 2023
-### Conference Presentation and Abstract
+*Frontiers in Medicine*. 10, 2023  
 
+### Conference Presentation and Abstract  
 - **[Revisiting graph contrastive learning for anomaly detection](https://ebooks.iospress.nl/doi/10.3233/FAIA230440)**  
 ZY Liu, CJ Cao†, FJ Tao, and **JZ Sun†**  
 Paper accepted for presentation at *26th European Conference on Artificial Intelligence (ECAI)*. September 30- October 5, 2023. Kraków, Poland
