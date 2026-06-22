@@ -5,14 +5,14 @@ layout: single
 author_profile: false
 classes: wide
 ---
-- <strong>30 May 2026, Dr. Sun have talk at 海南省PET/CT在肿瘤诊疗中的临床应用及进展学习班</strong><br/><img src='/images/20260530.jpg'>
-- <strong>29 May 2026, Zhuoyuan give a talk on 2026 SNMMI annual meeting</strong><br/><img src='/images/20260529.jpg'>
-- <strong>28 May 2026, Farewell for Jiahui and Chunhao at 荣山寮、澄迈、海南</strong><br/><img src='/images/20260528.jpg'>
-- <strong>21 May 2026, Congrats to Jiahui and Chunhao for passing their master degree defense</strong><br/><img src='/images/20260521.jpg'>
-- <strong>12 May 2026, SMILab at 2026 Macau International Symposium on Radiotheranostics</strong><br/><img src='/images/20260512.jpg'>
-- <strong>18 April 2026, Chunlei's full paper was accepted by IEEE TRPMS </strong><br/><img src='/images/20260418.jpg'>
-- <strong>17 March 2026, Chunhao’s and Zhuoyuan's (Oral) abstracts were accepted by the 2026 SNMMI</strong><br/><img src='/images/20260317.jpg'>
-- <strong>20 January 2026, Dr. Sun, Qian, Jiahui and Yansong 参访解放军总医院301海南医院核医科 </strong><br/><img src='/images/20260120.jpg'>
+- <strong>30 May 2026, Dr. Sun have talk at 海南省PET/CT在肿瘤诊疗中的临床应用及进展学习班</strong>
+- <strong>29 May 2026, Zhuoyuan give a talk on 2026 SNMMI annual meeting</strong>
+- <strong>28 May 2026, Farewell for Jiahui and Chunhao at 荣山寮、澄迈、海南</strong>
+- <strong>21 May 2026, Congrats to Jiahui and Chunhao for passing their master degree defense</strong>
+- <strong>12 May 2026, SMILab at 2026 Macau International Symposium on Radiotheranostics</strong>
+- <strong>18 April 2026, Chunlei's full paper was accepted by IEEE TRPMS </strong>
+- <strong>17 March 2026, Chunhao’s and Zhuoyuan's (Oral) abstracts were accepted by the 2026 SNMMI</strong>
+- <strong>20 January 2026, Dr. Sun, Qian, Jiahui and Yansong 参访解放军总医院301海南医院核医科 </strong>
 - <strong>15 December 2025, Chunhao's full paper was accepted by EJNMMI Physics </strong><br/><img src='/images/20251215.jpg'>
 - <strong>06 December 2025, Prof. Mok and SMILaber at 铜鼓岭，文昌，海南 </strong><br/><img src='/images/20251206-1.jpg'>
 - <strong>06 December 2025, Dr. Sun have talk at 2025年海南省抗癌协会精准放疗与综合治疗专业委员会年会暨第一届海南自贸港肿瘤学国际峰会 </strong><br/><img src='/images/20251206.jpg'>
