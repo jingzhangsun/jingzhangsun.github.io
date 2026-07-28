@@ -17,13 +17,16 @@
 
   /*
    * 中文维护说明：
-   * 非主页内容页使用整页宽度，避免保留作者侧栏留下的空白区域。
+   * 非主页内容页不使用作者侧栏，但仍然要和顶部导航使用同一个居中容器。
+   * 不允许无限跟随浏览器宽度放大，否则大屏下正文会跑到页面两侧。
    */
   &.main--full {
-    max-width: none;
     width: 100%;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    max-width: $x-large;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
   }
 }
 
@@ -43,7 +46,7 @@
       float: none;
       clear: both;
       width: 100%;
-      max-width: none;
+      max-width: 100%;
       margin-left: 0;
       margin-right: 0;
       padding-left: 0;
@@ -77,6 +80,8 @@
 }
 
 .page__content {
+  overflow-wrap: anywhere;
+  word-break: normal;
 
   h2 {
     padding-bottom: 0.5em;
