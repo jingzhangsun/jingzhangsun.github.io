@@ -112,7 +112,7 @@ classes: team-page
     <h3 class="team-cohort__year">Research Assistant</h3>
     <div class="team-members">
       <article class="team-member">
-        <img class="team-member__photo team-member__photo--tall" src="/images/team/chunlie-liu.jpeg" alt="Chunlie Liu" loading="lazy">
+        <img class="team-member__photo team-member__photo--tall" src="/images/team/chunlie-liu.jpeg?v=20260728" alt="Chunlie Liu" loading="lazy">
         <h3>Chunlie Liu</h3>
         <p>Research Assistant</p>
         <p>Year 3 (2024-)</p>
