@@ -13,7 +13,6 @@ classes: team-page
 
   <div class="team-members team-members--pi">
     <article class="team-member">
-      <span class="team-member__tag">PI</span>
       <img class="team-member__photo" src="/images/team/jingzhang-sun.png" alt="Jingzhang Sun" loading="eager">
       <h3>Jingzhang Sun</h3>
       <p>Associate Professor</p>
@@ -30,7 +29,6 @@ classes: team-page
     <h3 class="team-cohort__year">2023-2026</h3>
     <div class="team-members">
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/jiahui-dong.jpeg" alt="Jiahui Dong" loading="lazy">
         <h3>Jiahui Dong</h3>
         <p>Master Student</p>
@@ -38,7 +36,6 @@ classes: team-page
       </article>
 
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/chunhao-li.jpg" alt="Chunhao Li" loading="lazy">
         <h3>Chunhao Li</h3>
         <p>Master Student</p>
@@ -51,7 +48,6 @@ classes: team-page
     <h3 class="team-cohort__year">2024-2027</h3>
     <div class="team-members">
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/zhuoyuan-xu.jpg" alt="Zhuoyuan Xu" loading="lazy">
         <h3>Zhuoyuan Xu</h3>
         <p>Master Student</p>
@@ -59,7 +55,6 @@ classes: team-page
       </article>
 
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/zhigang-sun.jpeg" alt="Zhigang Sun" loading="lazy">
         <h3>Zhigang Sun</h3>
         <p>Master Student</p>
@@ -72,7 +67,6 @@ classes: team-page
     <h3 class="team-cohort__year">2025-2028</h3>
     <div class="team-members">
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/chongzhi-li.jpg" alt="Chongzhi Li" loading="lazy">
         <h3>Chongzhi Li</h3>
         <p>Master Student</p>
@@ -80,7 +74,6 @@ classes: team-page
       </article>
 
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/yansong-li.jpeg" alt="Yansong Li" loading="lazy">
         <h3>Yansong Li</h3>
         <p>Master Student</p>
@@ -88,7 +81,6 @@ classes: team-page
       </article>
 
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/qian-wang.jpeg" alt="Qian Wang" loading="lazy">
         <h3>Qian Wang</h3>
         <p>Master Student</p>
@@ -96,7 +88,6 @@ classes: team-page
       </article>
 
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/yuanhao-zhu.jpeg" alt="Yuanhao Zhu" loading="lazy">
         <h3>Yuanhao Zhu</h3>
         <p>Master Student</p>
@@ -109,7 +100,6 @@ classes: team-page
     <h3 class="team-cohort__year">2026-2029</h3>
     <div class="team-members">
       <article class="team-member">
-        <span class="team-member__tag">MS</span>
         <img class="team-member__photo" src="/images/team/yanyi-lin.jpeg" alt="Yanyi Lin" loading="lazy">
         <h3>Yanyi Lin</h3>
         <p>Direct Entry Master Student</p>
@@ -122,7 +112,6 @@ classes: team-page
     <h3 class="team-cohort__year">Research Assistant</h3>
     <div class="team-members">
       <article class="team-member">
-        <span class="team-member__tag">RA</span>
         <img class="team-member__photo team-member__photo--tall" src="/images/team/chunlie-liu.jpeg" alt="Chunlie Liu" loading="lazy">
         <h3>Chunlie Liu</h3>
         <p>Research Assistant</p>
@@ -131,7 +120,6 @@ classes: team-page
       </article>
 
       <article class="team-member">
-        <span class="team-member__tag">RA</span>
         <img class="team-member__photo" src="/images/team/ziyan-wu.jpeg" alt="Ziyan Wu" loading="lazy">
         <h3>Ziyan Wu</h3>
         <p>Research Assistant</p>
