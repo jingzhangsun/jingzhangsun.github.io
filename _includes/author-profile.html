@@ -26,8 +26,6 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label | default: "Follow:" }}</strong></li>
-
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}

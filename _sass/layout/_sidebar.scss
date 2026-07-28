@@ -60,6 +60,22 @@
   }
 }
 
+/*
+   Home profile polish
+   ========================================================================== */
+
+.sidebar.sticky {
+  @include breakpoint(max-width $large) {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  @include breakpoint($large) {
+    padding-right: 1.25rem;
+  }
+}
+
 .sidebar__right {
   margin-bottom: 1em;
 
@@ -97,9 +113,19 @@
     max-width: 175px;
     border-radius: 50%;
 
-    @include breakpoint($large) {
-      padding: 5px;
+    @include breakpoint(max-width $large) {
+      width: 76px;
+      max-width: 76px;
+      padding: 3px;
       border: 1px solid var(--global-border-color);
+      background: var(--global-bg-color);
+    }
+
+    @include breakpoint($large) {
+      padding: 6px;
+      border: 1px solid var(--global-border-color);
+      background: var(--global-bg-color);
+      box-shadow: 0 1px 8px rgba(#000, 0.08);
     }
   }
 }
@@ -119,6 +145,16 @@
   }
 }
 
+@include breakpoint(max-width $large) {
+  .author__content {
+    padding-right: 0;
+  }
+
+  .author__bio {
+    margin-top: 0.25rem;
+  }
+}
+
 .author__name {
   margin: 0;
 
@@ -130,6 +166,7 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  line-height: 1.2;
 }
 
 .sidebar .author__desktop {
@@ -182,6 +219,19 @@
     @include breakpoint($large) {
       display: none;
     }
+  }
+}
+
+@include breakpoint($large) {
+  .author__urls {
+    padding-top: 1rem;
+    border-top: 1px solid var(--global-border-color);
+  }
+
+  .author__urls li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.35rem;
   }
 }
 
