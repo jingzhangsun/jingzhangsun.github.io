@@ -11,7 +11,24 @@ CL Liu, YK Shi, ZM Fu, CH Li, JS Huang, B Tao, CJ Cao, GSP Mok†, **JZ Sun†**
 *IEEE Transactions on Radiation and Plasma Medical Sciences*, 2026
 
 ### Conference Presentation and Abstract
-
+- Hierarchical ROI-free Learning for GFR Category Stratification in Dynamic 99mTc-DTPA Renography  
+ZY Xu, JL Li, CH Li, JQ Zhong, W Sun, JX Chen, JH Dong, ZG Sun, YC Zeng, H Xiao†, and **JZ Sun†**  
+Paper accepted for presentation at the *2026 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 7-14, 2026. Granada, Spain. **(Awarded Trainee Grant)**  
+- When Do TAC and ROI Features Help? Residual Multimodal Learning for GFR Estimation in Dynamic 99mTc-DTPA Renography  
+YH Zhu, JL Li, CH Li, JQ Zhong, W Sun, ZY Xu, JX Chen, YC Zeng, **JZ Sun†**, and H Xiao†  
+Paper accepted for presentation at the *2026 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 7-14, 2026. Granada, Spain. **(Awarded Trainee Grant)**  
+- Weakly Supervised Cyclic Disentanglement for Delayed PET Image Synthesis  
+ZG Sun, LQ Fu, CH Li, ZY Xu, Q Wang, YC Zeng, H Xiao, LQ Tong†, and **JZ Sun†**  
+Paper accepted for presentation at the *2026 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 7-14, 2026. Granada, Spain. **(Awarded Trainee Grant)**  
+- A Multi-Client Split Federated Diffusion Framework for Resource-Efficient Cardiac-Gated MP-SPECT Denoising  
+CH Li, JS Huang, ZM Fu, YK Shi, ZG Sun, ZY Xu, YC Zeng, H Xiao, H Wang†, and **JZ Sun†**  
+Paper accepted for presentation at the *2026 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 7-14, 2026. Granada, Spain. **(Awarded Trainee Grant)**  
+- Preliminary Region-Aware MRI-to-sCT Synthesis for Radiotherapy-Oriented Imaging in Nasopharyngeal Carcinoma  
+Qian Wang, JN Xu, CH Li, ZG Sun, H Xiao, WB Huang, YC Zeng†, and **JZ Sun†**  
+Paper accepted for presentation at the *2026 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 7-14, 2026. Granada, Spain.  
+- GPU-Accelerated Voxel-Wise Mono/Bi-Exponential Fitting for Lu-177 SPECT Time-Integrated Activity Estimation  
+HT Tan, **JZ Sun**, and GF Chen†  
+Paper accepted for presentation at the *2026 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 7-14, 2026. Granada, Spain.  
 - **[ROI-free deep learning for global and split GFR estimation and CKD classification from dynamic 99mTc-DTPA planar renography](https://jnm.snmjournals.org/content/67/supplement_1/261764.abstract)**  
 ZY Xu, H Xiao†, W Sun, JJ Yan, JQ Zhong, JL Li, CH Li, and **JZ Sun†**  
 Paper accepted for **oral presentation** at *Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2026 Annual Meeting*, 2026 **(included PIDSC Basic Science Summary Session)**

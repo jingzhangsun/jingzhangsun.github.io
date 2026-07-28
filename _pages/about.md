@@ -9,10 +9,11 @@ redirect_from:
 
 I am currently an Associate Professor at Hainan University since 2023, working on [Nuclear Medicine Image Processing and Medical Physics](https://scs.hainanu.edu.cn/info/1051/2659.htm). Prior to this, I obtained my Ph.D. from the University of Macau, advised by [Prof. Greta S.P. Mok](https://big.fst.um.edu.mo/) at Biomedical ImaginG Laboratory (BIG) in Department of Electrical and Computer Engineering.
 
-**S**mart **M**edical **I**maging **Lab**oratory (SMILab) consists of 14 members at present. To date, we have 3 research articles accepted at IEEE TRPMS, Med. Phy., and EJNMMI Phy., 6 abstracts accepted at the annual meeting of the SNMMI with 1 oral presentation, as well as 2 summaries accepted at the IEEE NSS/MIC with 1 oral presentation (To be updated).
+**S**mart **M**edical **I**maging **Lab**oratory (SMILab) consists of 14 members at present. To date, we have 3 research articles accepted at IEEE TRPMS, Med. Phy., and EJNMMI Phy., 6 abstracts accepted at the annual meeting of the SNMMI with 1 oral presentation, as well as 7 summaries accepted at the IEEE NSS/MIC with 1 oral presentation (To be updated).
 
 News
 ======
+- 2026/07/07 Five summaries were accepted by 2026 IEEE NSS/MIC, 4 of them were awarded the **Trainee award**
 - 2026/06/14 **Zhuoyuan(Master student)** received the College Student of the Year Nomination Award (2026)
 - 2026/05/19 **Zhuoyuan(Master student)**'s abstract was included PIDSC Basic Science Summary Session of 2026 SNMMI
 - 2026/05/07 **Chunhao(Master student)**'s abstract was included in the Image Generation portion of the PIDS Basic Science Summary Session for the 2026 SNMMI 
