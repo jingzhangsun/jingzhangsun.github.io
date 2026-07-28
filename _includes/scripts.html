@@ -1,1 +1,4 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
+{% if page.classes contains "moments-page" %}
+  <script src="{{ base_path }}/assets/js/moments-lightbox.js?v={{ site.time | date: '%s' }}" defer></script>
+{% endif %}
