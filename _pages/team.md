@@ -133,6 +133,14 @@ classes: team-page
         <p>Year 2 (2025-)</p>
         <p>GNN for MP-SPECT</p>
       </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/shang-peng.jpg" alt="Shang Peng" loading="lazy">
+        <h3>Shang Peng</h3>
+        <p>Research Assistant</p>
+        <p>Year 2 (2025-)</p>
+        <p>Temporal attack for CG MP-SPECT</p>
+      </article>
     </div>
   </div>
 </section>
