@@ -20,8 +20,12 @@ redirect_from:
   <!-- 中文维护说明：新增新闻时复制一个 article；datetime 使用 YYYY-MM-DD，页面显示日期使用 YYYY/MM/DD。 -->
   <div class="home-news__timeline">
     <article class="home-news__item">
+      <time datetime="2026-07-18">2026/07/18</time>
+      <p><strong>Yanyi</strong> and <strong>Ziyan</strong> (Bachelor student) received the <strong>Third Place Award</strong> at the 11th National Biomedical Engineering Innovation Design Competition for College Students</p>
+    </article>
+    <article class="home-news__item">
       <time datetime="2026-07-07">2026/07/07</time>
-      <p>Five summaries were accepted by 2026 IEEE NSS/MIC, 4 of them were awarded the <strong>Trainee award</strong></p>
+      <p>5 summaries were accepted by 2026 IEEE NSS/MIC, 4 of them were awarded the <strong>Trainee award</strong></p>
     </article>
     <article class="home-news__item">
       <time datetime="2026-06-14">2026/06/14</time>
