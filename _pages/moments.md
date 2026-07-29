@@ -13,6 +13,33 @@ classes: moments-page
     <h2 id="moments-2026">2026</h2>
     <div class="moments-grid">
       <article class="moment-card">
+        <a class="moment-card__media" href="/images/20260718.jpg">
+          <img src="/images/20260718.jpg" alt="18 July 2026, Yanyi and Ziyan received the Third Place Award at the 11th National Biomedical Engineering Innovation Design Competition for College Students" loading="lazy">
+        </a>
+        <div class="moment-card__body">
+          <time datetime="2026-07-18">18 July 2026</time>
+          <h3>Yanyi and Ziyan received the Third Place Award at the 11th National Biomedical Engineering Innovation Design Competition for College Students</h3>
+        </div>
+      </article>
+      <article class="moment-card">
+        <a class="moment-card__media" href="/images/20260706.jpg">
+          <img src="/images/20260706.jpg" alt="06 July 2026, Chunhao, Zhigang, Zhuoyuan, Yuanhao, and Qian's summaries were accepted by 2026 IEEE NSS/MIC, 4 of them were awarded the Trainee award" loading="lazy">
+        </a>
+        <div class="moment-card__body">
+          <time datetime="2026-07-06">06 July 2026</time>
+          <h3>Chunhao, Zhigang, Zhuoyuan, Yuanhao, and Qian's summaries were accepted by 2026 IEEE NSS/MIC, 4 of them were awarded the Trainee award</h3>
+        </div>
+      </article>
+      <article class="moment-card">
+        <a class="moment-card__media" href="/images/20260614.jpg">
+          <img src="/images/20260614.jpg" alt="14 June 2026, Zhuoyuan received the College Student of the Year Nomination Award (2026)" loading="lazy">
+        </a>
+        <div class="moment-card__body">
+          <time datetime="2026-06-14">14 June 2026</time>
+          <h3>Zhuoyuan received the College Student of the Year Nomination Award (2026)</h3>
+        </div>
+      </article>
+      <article class="moment-card">
         <a class="moment-card__media" href="/images/20260530.jpg">
           <img src="/images/20260530.jpg" alt="30 May 2026, Dr. Sun have talk at 海南省PET/CT在肿瘤诊疗中的临床应用及进展学习班" loading="lazy">
         </a>
