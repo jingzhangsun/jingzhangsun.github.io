@@ -17,7 +17,6 @@ classes: team-page
       <h3>Jingzhang Sun</h3>
       <p>Associate Professor</p>
       <p>Principal Investigator</p>
-      <p>SMILab · School of Cyberspace Security</p>
     </article>
   </div>
 </section>
