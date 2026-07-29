@@ -1,3 +1,4 @@
+---
 title: "Team"
 permalink: /team/
 layout: single
@@ -98,14 +99,14 @@ classes: team-page
       </article>
 
       <article class="team-member">
-        <img class="team-member__photo" src="/images/team/jinlong-li.jpeg" alt="Jinlong Li" loading="lazy">
+        <img class="team-member__photo" src="/images/team/jinlong-li.jpg" alt="Jinlong Li" loading="lazy">
         <h3>Jinlong Li</h3>
         <p>Master Student</p>
         <p>TBD</p>
       </article>
 
       <article class="team-member">
-        <img class="team-member__photo" src="/images/team/yu-wang.jpeg" alt="Yu Wang" loading="lazy">
+        <img class="team-member__photo" src="/images/team/yu-wang.jpg" alt="Yu Wang" loading="lazy">
         <h3>Yu Wang</h3>
         <p>Master Student</p>
         <p>TBD</p>
