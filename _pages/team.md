@@ -1,4 +1,4 @@
----
+<img width="361" height="123" alt="image" src="https://github.com/user-attachments/assets/c976b7a9-b0fc-4276-8262-f07e2c685445" />---
 title: "Team"
 permalink: /team/
 layout: single
@@ -26,20 +26,13 @@ classes: team-page
   <h2>Trainee</h2>
 
   <div class="team-cohort">
-    <h3 class="team-cohort__year">2023-2026</h3>
+    <h3 class="team-cohort__year">2026-2030</h3>
     <div class="team-members">
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/jiahui-dong.jpeg" alt="Jiahui Dong" loading="lazy">
-        <h3>Jiahui Dong</h3>
-        <p>Master Student</p>
-        <p>SPECT · Multimodal Network · Ultrasound Segmentation</p>
-      </article>
-
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/chunhao-li.jpg" alt="Chunhao Li" loading="lazy">
         <h3>Chunhao Li</h3>
-        <p>Master Student</p>
-        <p>SPECT Denoising · Diffusion Model · Federated Learning</p>
+        <p>Ph.D. Student</p>
+        <p>Cardiac · SPECT · PET</p>
       </article>
     </div>
   </div>
@@ -51,14 +44,14 @@ classes: team-page
         <img class="team-member__photo" src="/images/team/zhuoyuan-xu.jpg" alt="Zhuoyuan Xu" loading="lazy">
         <h3>Zhuoyuan Xu</h3>
         <p>Master Student</p>
-        <p>SPECT · PET · Survival Prediction</p>
+        <p>⁹⁹ᵐTc-DTPA · CKD & GFR Prediction</p>
       </article>
 
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/zhigang-sun.jpeg" alt="Zhigang Sun" loading="lazy">
         <h3>Zhigang Sun</h3>
         <p>Master Student</p>
-        <p>SPECT · PET · Unsupervised Model</p>
+        <p>delayedPET · Generation</p>
       </article>
     </div>
   </div>
@@ -70,28 +63,28 @@ classes: team-page
         <img class="team-member__photo" src="/images/team/chongzhi-li.jpg" alt="Chongzhi Li" loading="lazy">
         <h3>Chongzhi Li</h3>
         <p>Master Student</p>
-        <p>Multimodal Network</p>
+        <p>Early-frame ⁹⁹ᵐTc-DTPA for TAC prediction</p>
       </article>
 
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/yansong-li.jpeg" alt="Yansong Li" loading="lazy">
         <h3>Yansong Li</h3>
         <p>Master Student</p>
-        <p>Medical Imaging Privacy Protection</p>
+        <p>Medical imaging privacy protection</p>
       </article>
 
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/qian-wang.jpeg" alt="Qian Wang" loading="lazy">
         <h3>Qian Wang</h3>
         <p>Master Student</p>
-        <p>Research interest: TBD</p>
+        <p>MRI to sCT</p>
       </article>
 
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/yuanhao-zhu.jpeg" alt="Yuanhao Zhu" loading="lazy">
         <h3>Yuanhao Zhu</h3>
         <p>Master Student</p>
-        <p>Research interest: TBD</p>
+        <p>Multimodel for CKD & GFR Prediction</p>
       </article>
     </div>
   </div>
@@ -103,8 +96,23 @@ classes: team-page
         <img class="team-member__photo" src="/images/team/yanyi-lin.jpeg" alt="Yanyi Lin" loading="lazy">
         <h3>Yanyi Lin</h3>
         <p>Direct Entry Master Student</p>
-        <p>Research interest: TBD</p>
+        <p>MP-SPECT image enhancement</p>
       </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/jinlong-li.jpeg" alt="Jinlong Li" loading="lazy">
+        <h3>Jinlong Li</h3>
+        <p>Master Student</p>
+        <p>TBD</p>
+      </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/yu-wang.jpeg" alt="Yu Wang" loading="lazy">
+        <h3>Yu Wang</h3>
+        <p>Master Student</p>
+        <p>TBD</p>
+      </article>
+      
     </div>
   </div>
 
@@ -116,7 +124,7 @@ classes: team-page
         <h3>Chunlie Liu</h3>
         <p>Research Assistant</p>
         <p>Year 3 (2024-)</p>
-        <p>Deblur/denoising for gated SPECT</p>
+        <p>Deblur/denoising for CG MP-SPECT</p>
       </article>
 
       <article class="team-member">
@@ -124,7 +132,7 @@ classes: team-page
         <h3>Ziyan Wu</h3>
         <p>Research Assistant</p>
         <p>Year 2 (2025-)</p>
-        <p>Research interest: TBD</p>
+        <p>GNN for MP-SPECT</p>
       </article>
     </div>
   </div>
@@ -137,6 +145,8 @@ classes: team-page
     <section class="team-alumni__group">
       <h3>Graduate Student</h3>
       <ul>
+        <li>Jiahui Dong (M.S., 2026), China Construction Bank Corporation, Haikou</li>
+        <li>Chunhao Li (M.S., 2026), Ph.D. Student@HNU</li>
         <li>Tonghua Qiao (M.S., 2025, co-supervisor), China Mobile, Guiyang</li>
         <li>Haochen Li (M.S., 2025, co-supervisor), China Telecom, Bengbu</li>
         <li>Yinglin Wang (M.S., 2025, co-supervisor), China Unicom, Haikou</li>
