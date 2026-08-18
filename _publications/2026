@@ -4,6 +4,24 @@ collection: publications
 category: 2026
 permalink: /publications/2026/
 ---
+### Preprints (under review)
+
+- **Layered spatiotemporal and frame-integrity analysis for acquisition quality assessment of dynamic [99mTc]Tc-DTPA renal scintigraphy**  
+H Xiao, QH Pan, JJ Yan, Y Zhou, and **JZ Sun†**  
+*Journal paper*
+- **Delayed PET Synthesis from First PET under Imperfect Inter-Scan Alignment Using Weakly Supervised 3D Cyclic Decoupled Learning**  
+ZG Sun, LQ Fu, CH Li, H Xiao, YC Zeng, WB Huang, **JZ Sun†**, and LQ Tong†  
+*Journal paper*
+- **TSCNet: A Reference-Free Temporal Self-Supervised Count-Aware Network for Cardiac-Gated Myocardial Perfusion SPECT Enhancement**  
+**JZ Sun†**, ZG Sun, ZY Wu, JS Huang, B Tao, H Xiao†, and H Wang†  
+*Journal paper*
+- **ROI-free dynamic 99mTc-DTPA renography for Gates-derived renal function estimation and GFR-based severity stratification**  
+ZY Xu, JL Li, JQ Zhong, W Sun, JX Chen, YC Zeng, WB Huang, **JZ Sun†**, and H Xiao†  
+*Journal paper*
+- **Patient-as-Reference Anomaly Detection for Longitudinal MRI Triage in Nasopharyngeal Cancer Radiotherapy**  
+**JZ Sun†**, ZG Sun, Qian Wang, NN Ji, JN Xu, and YC Zeng†  
+*Conference paper*
+
 ### Peer-reviewed Journal Papers
 
 - **[Dual diffusion models with unified weight fusion framework for simultaneous denoising and motion artifacts reduction in cardiac-gated myocardial perfusion SPECT](https://ieeexplore.ieee.org/abstract/document/11489069)**  
