@@ -14,14 +14,15 @@ Our nuclear medicine research spans three representative functional imaging scen
 Our research investigates how limited photon counts, cardiac motion, and temporal gating jointly affect myocardial perfusion SPECT. We develop learning-based methods to reduce image noise and motion-related degradation while preserving myocardial uptake, spatial resolution, perfusion patterns, and gated functional information.
 - Develop deep learning methods for low-dose and shortened-acquisition myocardial perfusion SPECT restoration and quantitative recovery.[(Sun et al. QIMS 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9246746/) [(Sun et al. J. Nucl. Cardiol. 2023)](https://link.springer.com/article/10.1007/s12350-022-03045-x) [(Sun et al. SNMMI 2023)](https://jnm.snmjournals.org/content/64/supplement_1/P807.abstract)  
 - Develop generalized and diffusion-based models for efficient MP-SPECT restoration across different acquisition and count conditions.[(Li et al. EJNMMI Phy. 2026)](https://link.springer.com/content/pdf/10.1186/s40658-025-00825-5.pdf) [(Li et al. SNMMI 2025)](https://jnm.snmjournals.org/content/66/supplement_1/251714.abstract) [(Sun et al. SNMMI 2025)](https://jnm.snmjournals.org/content/66/supplement_1/251558.abstract)  
-- Develop motion-aware learning methods for cardiac-gated MP-SPECT denoising, deblurring, motion-artifact reduction, and temporal restoration.[(Sun et al. IEEE NSS/MIC 2022)](https://ieeexplore.ieee.org/abstract/document/10399080) [(Sun et al. Front. Med. 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1083413/full) [(Dong et al. IEEE NSS/MIC 2025)](https://ieeexplore.ieee.org/document/11287664)  
+- Develop motion-aware learning methods for cardiac-gated MP-SPECT denoising, deblurring, motion-artifact reduction, and temporal restoration.[(Sun et al. IEEE NSS/MIC 2019)](https://ieeexplore.ieee.org/abstract/document/9059884/) [(Sun et al. Med. Phys. 2022)](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15707) [(Li et al. IEEE NSS/MIC 2025)](https://ieeexplore.ieee.org/document/11287736) [(Liu et al. IEEE TRPMS 2026)](https://ieeexplore.ieee.org/abstract/document/11489069) (Li et al. IEEE NSS/MIC 2026)
+- Investigate patient-specific, resource-efficient, and distributed learning strategies for robust MP-SPECT restoration and quantitative imaging.[(Sun et al. IEEE NSS/MIC 2022)](https://ieeexplore.ieee.org/abstract/document/10399080) [(Sun et al. Front. Med. 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1083413/full) [(Dong et al. IEEE NSS/MIC 2025)](https://ieeexplore.ieee.org/document/11287664) (Li et al. IEEE NSS/MIC 2026)
 
 
 <strong>Motion-aware cardiac-gated MP-SPECT restoration</strong>   
 The goal aims to reduce noise, motion artifacts, deblurring effects, and temporal inconsistency in cardiac-gated MP-SPECT.
-- Develop dual-gated and cardiac-gated MP-SPECT denoising methods.[(Sun et al. Med. Phys. 2022)](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15707) [(Sun et al. IEEE NSS/MIC 2019)](https://ieeexplore.ieee.org/abstract/document/9059884/)  
-- Develop diffusion-based models for simultaneous denoising, deblurring, and motion-artifact reduction.[(Li et al. IEEE NSS/MIC 2025)](https://ieeexplore.ieee.org/document/11287736) [(Liu et al. IEEE TRPMS 2026)](https://ieeexplore.ieee.org/abstract/document/11489069) (Li et al. SNMMI 2026)  
-- Explore resource-efficient and distributed learning frameworks for cardiac-gated MP-SPECT restoration.(Li et al. IEEE NSS/MIC 2026)  
+- Develop dual-gated and cardiac-gated MP-SPECT denoising methods.   
+- Develop diffusion-based models for simultaneous denoising, deblurring, and motion-artifact reduction.  (Li et al. SNMMI 2026)  
+- Explore resource-efficient and distributed learning frameworks for cardiac-gated MP-SPECT restoration.  
 
 
 <strong>ROI-free dynamic 99mTc-DTPA renography</strong>  
