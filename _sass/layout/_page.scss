@@ -731,6 +731,171 @@
 }
 
 /*
+   Acknowledgements
+   ========================================================================== */
+
+.acknowledgements-page {
+  .page__title {
+    margin-bottom: 0.75em;
+    font-size: $type-size-2;
+    letter-spacing: 0;
+  }
+
+  .ack-intro {
+    max-width: 940px;
+    margin-bottom: 2.25rem;
+
+    p {
+      margin-bottom: 0;
+      font-size: $type-size-5;
+      line-height: 1.65;
+    }
+  }
+
+  .ack-section {
+    margin-top: 2.8rem;
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 1.4rem;
+      padding-bottom: 0.55rem;
+      border-bottom: 1px solid var(--global-border-color);
+      font-size: $type-size-3;
+      line-height: 1.2;
+    }
+  }
+
+  /*
+   * 中文维护说明：
+   * 合作方用独立 logo 网格展示，避免把所有单位压进一张不可维护的大图。
+   */
+  .ack-partners,
+  .ack-funding {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.45rem;
+  }
+
+  .ack-partner,
+  .ack-fund {
+    border: 1px solid var(--global-border-color);
+    border-radius: 8px;
+    background: var(--global-bg-color);
+  }
+
+  .ack-partner {
+    display: flex;
+    min-height: 13.2rem;
+    padding: 1.15rem 1.25rem 1.25rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: 16rem;
+      height: 5.8rem;
+      margin: 0 auto 1rem;
+      object-fit: contain;
+      box-shadow: none;
+    }
+
+    h3 {
+      margin: 0 0 0.45rem;
+      border-bottom: 0;
+      font-family: $sans-serif;
+      font-size: $type-size-5;
+      font-weight: 800;
+      line-height: 1.25;
+    }
+
+    p {
+      margin: 0;
+      color: var(--global-text-color-light);
+      font-size: $type-size-7;
+      line-height: 1.35;
+    }
+  }
+
+  .ack-fund {
+    position: relative;
+    min-height: 7.4rem;
+    padding: 1.25rem 1.35rem 1.25rem 1.65rem;
+    overflow: hidden;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 0.3rem;
+      height: 100%;
+      background: var(--global-link-color);
+    }
+
+    h3 {
+      margin: 0 0 0.55rem;
+      border-bottom: 0;
+      font-family: $sans-serif;
+      font-size: $type-size-5;
+      font-weight: 800;
+      line-height: 1.25;
+    }
+
+    p {
+      margin: 0;
+      color: var(--global-text-color-light);
+      font-size: $type-size-7;
+      line-height: 1.45;
+    }
+  }
+
+  .ack-fund--green::before {
+    background: #7aa06c;
+  }
+
+  .ack-fund--gold::before {
+    background: #b7803d;
+  }
+
+  @include breakpoint(max-width $medium) {
+    .page__title {
+      font-size: $type-size-3;
+    }
+
+    .ack-intro p {
+      font-size: 1em;
+    }
+
+    .ack-partners,
+    .ack-funding {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .ack-partner {
+      min-height: 11rem;
+    }
+
+    .ack-partner img {
+      height: 4.8rem;
+    }
+
+    .ack-partner h3,
+    .ack-fund h3 {
+      font-size: 1em;
+    }
+
+    .ack-partner p,
+    .ack-fund p {
+      font-size: 0.95em;
+    }
+  }
+}
+
+/*
    Moments
    ========================================================================== */
 
