@@ -4,6 +4,24 @@ collection: publications
 category: 2026
 permalink: /publications/2026/
 ---
+### Preprints (under review)
+
+- **Layered spatiotemporal and frame-integrity analysis for acquisition quality assessment of dynamic [99mTc]Tc-DTPA renal scintigraphy**  
+H Xiao, QH Pan, JJ Yan, Y Zhou, and **JZ Sun†**  
+*Journal paper*
+- **Delayed PET Synthesis from First PET under Imperfect Inter-Scan Alignment Using Weakly Supervised 3D Cyclic Decoupled Learning**  
+ZG Sun, LQ Fu, CH Li, H Xiao, YC Zeng, WB Huang, **JZ Sun†**, and LQ Tong†  
+*Journal paper*
+- **TSCNet: A Reference-Free Temporal Self-Supervised Count-Aware Network for Cardiac-Gated Myocardial Perfusion SPECT Enhancement**  
+**JZ Sun†**, ZG Sun, ZY Wu, JS Huang, B Tao, H Xiao†, and H Wang†  
+*Journal paper*
+- **ROI-free dynamic 99mTc-DTPA renography for Gates-derived renal function estimation and GFR-based severity stratification**  
+ZY Xu, JL Li, JQ Zhong, W Sun, JX Chen, YC Zeng, WB Huang, **JZ Sun†**, and H Xiao†  
+*Journal paper*
+- **Patient-as-Reference Anomaly Detection for Longitudinal MRI Triage in Nasopharyngeal Cancer Radiotherapy**  
+**JZ Sun†**, ZG Sun, Qian Wang, NN Ji, JN Xu, and YC Zeng†  
+*Conference paper*
+
 ### Peer-reviewed Journal Papers
 
 - **[Dual diffusion models with unified weight fusion framework for simultaneous denoising and motion artifacts reduction in cardiac-gated myocardial perfusion SPECT](https://ieeexplore.ieee.org/abstract/document/11489069)**  
@@ -11,6 +29,24 @@ CL Liu, YK Shi, ZM Fu, CH Li, JS Huang, B Tao, CJ Cao, GSP Mok†, **JZ Sun†**
 *IEEE Transactions on Radiation and Plasma Medical Sciences*, 2026
 
 ### Conference Presentation and Abstract
+- 基于弱监督循环解耦模型的延迟PET图像生成方法  
+孙志刚，符礼青，童良前，**孙敬张**  
+*中华医学会核医学分会2026年学术年会青年学术交流（45岁以下中青年核医学工作者）*, **口头汇报**，2026年9月17-20日, 陕西西安 
+- 基于无监督配准引导扩散模型的心脏门控MP-SPECT运动校正与降噪方法  
+李春浩，黄江山，符珍敏，施彦坤，王卉，**孙敬张**，莫昇萍  
+*中华医学会核医学分会2026年学术年会*, 2026年9月17-20日, 陕西西安  
+- 融合时间-放射性曲线与感兴趣区特征的99mTc-DTPA肾动态显像肾小球滤过率评估  
+朱元浩，钟佳琪，李锦林，孙雯，严娟娟，**孙敬张**，肖欢   
+*中华医学会核医学分会2026年学术年会*, 2026年9月17-20日, 陕西西安 
+- 基于多客户端拆分联邦扩散模型的心脏门控MP-SPECT高效降噪方法  
+黄江山，李春浩，施彦坤，符珍敏，**孙敬张**，王卉  
+*中华医学会核医学分会2026年学术年会*, 2026年9月17-20日, 陕西西安  
+- 无需感兴趣区域标注的99mTc-DTPA肾显像慢性肾脏病多分类方法  
+徐卓远，孙雯，钟佳琪，严娟娟，李锦林，**孙敬张**，肖欢   
+*中华医学会核医学分会2026年学术年会*, 2026年9月17-20日, 陕西西安  
+- 基于多时相MRI的区域感知合成CT生成及HU准确性评估  
+王茜，徐军女，肖欢，孙敬张，曾越灿   
+*中华医学会核医学分会2026年学术年会*, 2026年9月17-20日, 陕西西安  
 - Hierarchical ROI-free Learning for GFR Category Stratification in Dynamic 99mTc-DTPA Renography  
 ZY Xu, JL Li, CH Li, JQ Zhong, W Sun, JX Chen, JH Dong, ZG Sun, YC Zeng, H Xiao†, and **JZ Sun†**  
 Paper accepted for presentation at the *2026 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, November 7-14, 2026. Granada, Spain. **(Awarded Trainee Grant)**  
