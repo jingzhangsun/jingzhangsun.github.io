@@ -17,32 +17,32 @@ classes: acknowledgements-page
 
   <div class="ack-partners">
     <article class="ack-partner">
-      <img src="/images/acknowledgements/university-of-macau.png" alt="University of Macau logo" loading="lazy">
+      <img src="/images/acknowledgements/1university-of-macau.png" alt="University of Macau logo" loading="lazy">
       <h3>University of Macau</h3>
     </article>
 
     <article class="ack-partner">
-      <img src="/images/acknowledgements/city-university-of-macau.png" alt="City University of Macau logo" loading="lazy">
+      <img src="/images/acknowledgements/1city-university-of-macau.png" alt="City University of Macau logo" loading="lazy">
       <h3>City University of Macau</h3>
     </article>
 
     <article class="ack-partner">
-      <img src="/images/acknowledgements/hainan-hospital-plagh.png" alt="Hainan Hospital of Chinese PLA General Hospital logo" loading="lazy">
+      <img src="/images/acknowledgements/1hainan-hospital-plagh.png" alt="Hainan Hospital of Chinese PLA General Hospital logo" loading="lazy">
       <h3>Hainan Hospital of Chinese PLA General Hospital</h3>
     </article>
 
     <article class="ack-partner">
-      <img src="/images/acknowledgements/first-hospital-hmu.png" alt="The First Affiliated Hospital of Hainan Medical University logo" loading="lazy">
+      <img src="/images/acknowledgements/1first-hospital-hmu.png" alt="The First Affiliated Hospital of Hainan Medical University logo" loading="lazy">
       <h3>The First Affiliated Hospital of Hainan Medical University</h3>
     </article>
 
     <article class="ack-partner">
-      <img src="/images/acknowledgements/second-hospital-hmu.png" alt="The Second Affiliated Hospital of Hainan Medical University logo" loading="lazy">
-      <h3>The Second Affiliated Hospital of Hainan Medical University logo</h3>
+      <img src="/images/acknowledgements/1second-hospital-hmu.png" alt="The Second Affiliated Hospital of Hainan Medical University logo" loading="lazy">
+      <h3>The Second Affiliated Hospital of Hainan Medical University</h3>
     </article>
 
     <article class="ack-partner">
-      <img src="/images/acknowledgements/haikou-peoples-hospital.png" alt="The First Affiliated Hospital of Hainan University logo" loading="lazy">
+      <img src="/images/acknowledgements/1haikou-peoples-hospital.png" alt="The First Affiliated Hospital of Hainan University logo" loading="lazy">
       <h3>The First Affiliated Hospital of Hainan University</h3>
     </article>
   </div>
