@@ -16,25 +16,12 @@ classes: team-page
       <img class="team-member__photo" src="/images/team/jingzhang-sun.png" alt="Jingzhang Sun" loading="eager">
       <h3>Jingzhang Sun</h3>
       <p>Associate Professor</p>
-      <p>Principal Investigator</p>
     </article>
   </div>
 </section>
 
 <section class="team-section team-section--trainee">
   <h2>Trainee</h2>
-
-  <div class="team-cohort">
-    <h3 class="team-cohort__year">2026-2030</h3>
-    <div class="team-members">
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/chunhao-li.jpg" alt="Chunhao Li" loading="lazy">
-        <h3>Chunhao Li</h3>
-        <p>Ph.D. Student</p>
-        <p>Cardiac · SPECT · PET</p>
-      </article>
-    </div>
-  </div>
 
   <div class="team-cohort">
     <h3 class="team-cohort__year">2024-2027</h3>
@@ -122,7 +109,7 @@ classes: team-page
         <img class="team-member__photo team-member__photo--tall" src="/images/team/chunlie-liu.jpeg?v=20260728" alt="Chunlie Liu" loading="lazy">
         <h3>Chunlie Liu</h3>
         <p>Research Assistant</p>
-        <p>Year 3 (2024-)</p>
+        <p>Year 4 (2023-2027)</p>
         <p>Deblur/denoising for CG MP-SPECT</p>
       </article>
 
@@ -130,7 +117,7 @@ classes: team-page
         <img class="team-member__photo" src="/images/team/ziyan-wu.jpeg" alt="Ziyan Wu" loading="lazy">
         <h3>Ziyan Wu</h3>
         <p>Research Assistant</p>
-        <p>Year 2 (2025-)</p>
+        <p>Year 3 (2024-2028)</p>
         <p>GNN for MP-SPECT</p>
       </article>
 
@@ -138,8 +125,16 @@ classes: team-page
         <img class="team-member__photo" src="/images/team/shang-peng.jpg" alt="Shang Peng" loading="lazy">
         <h3>Shang Peng</h3>
         <p>Research Assistant</p>
-        <p>Year 2 (2025-)</p>
+        <p>Year 3 (2024-2028)</p>
         <p>Temporal attack for CG MP-SPECT</p>
+      </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/qihang-kong.jpg" alt="Qihang Kong" loading="lazy">
+        <h3>Qihang Kong</h3>
+        <p>Research Assistant</p>
+        <p>Year 2 (2025-2029)</p>
+        <p>TBD</p>
       </article>
     </div>
   </div>
