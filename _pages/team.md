@@ -16,6 +16,7 @@ classes: team-page
       <img class="team-member__photo" src="/images/team/jingzhang-sun.png" alt="Jingzhang Sun" loading="eager">
       <h3>Jingzhang Sun</h3>
       <p>Associate Professor</p>
+      <p>Physics-Informed AI for Restoration and Functional Characterization of Low-Count Nuclear Medicine Imagin</p>
     </article>
   </div>
 </section>
@@ -26,6 +27,30 @@ classes: team-page
   <div class="team-cohort">
     <h3 class="team-cohort__year">Low-count<br>myocardial perfusion<br>SPECT imaging</h3>
     <div class="team-members">
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/yanyi-lin.jpeg" alt="Yanyi Lin" loading="lazy">
+        <h3>Yanyi Lin</h3>
+        <p>Direct Entry Master Student</p>
+        <p>Motion-Constrained Gated MP-SPECT Restoration</p>
+      </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/jinlong-li.jpg" alt="Jinlong Li" loading="lazy">
+        <h3>Jinlong Li</h3>
+        <p>Master Student</p>
+        <p>Spatiotemporal-Guided Perfusion Quantification</p>
+      </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/yu-wang.jpg" alt="Yu Wang" loading="lazy">
+        <h3>Yu Wang</h3>
+        <p>Master Student</p>
+        <p>MP-SPECT Function Estimation</p>
+      </article>
+      
+      
+      
+      
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/zhuoyuan-xu.jpg" alt="Zhuoyuan Xu" loading="lazy">
         <h3>Zhuoyuan Xu</h3>
@@ -78,26 +103,7 @@ classes: team-page
   <div class="team-cohort">
     <h3 class="team-cohort__year">2026-2029</h3>
     <div class="team-members">
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/yanyi-lin.jpeg" alt="Yanyi Lin" loading="lazy">
-        <h3>Yanyi Lin</h3>
-        <p>Direct Entry Master Student</p>
-        <p>MP-SPECT image enhancement</p>
-      </article>
-
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/jinlong-li.jpg" alt="Jinlong Li" loading="lazy">
-        <h3>Jinlong Li</h3>
-        <p>Master Student</p>
-        <p>TBD</p>
-      </article>
-
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/yu-wang.jpg" alt="Yu Wang" loading="lazy">
-        <h3>Yu Wang</h3>
-        <p>Master Student</p>
-        <p>TBD</p>
-      </article>
+      
       
     </div>
   </div>
