@@ -16,7 +16,7 @@ classes: team-page
       <img class="team-member__photo" src="/images/team/jingzhang-sun.png" alt="Jingzhang Sun" loading="eager">
       <h3>Jingzhang Sun</h3>
       <p>Associate Professor</p>
-      <p>Physics-Informed AI for Restoration and Functional Characterization of Low-Count Nuclear Medicine Imagin</p>
+      <p>Physics-Informed AI for Restoration and Functional Preservation of Low-Count Nuclear Medicine Imagin</p>
     </article>
   </div>
 </section>
@@ -31,6 +31,7 @@ classes: team-page
         <img class="team-member__photo" src="/images/team/yanyi-lin.jpeg" alt="Yanyi Lin" loading="lazy">
         <h3>Yanyi Lin</h3>
         <p>Direct Entry Master Student</p>
+        <p>2026-2029</p>
         <p>Motion-Constrained Gated MP-SPECT Restoration</p>
       </article>
 
@@ -38,101 +39,24 @@ classes: team-page
         <img class="team-member__photo" src="/images/team/jinlong-li.jpg" alt="Jinlong Li" loading="lazy">
         <h3>Jinlong Li</h3>
         <p>Master Student</p>
-        <p>Spatiotemporal-Guided Perfusion Quantification</p>
+        <p>2026-2029</p>
+        <p>MP-SPECT Perfusion Quantification</p>
       </article>
 
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/yu-wang.jpg" alt="Yu Wang" loading="lazy">
         <h3>Yu Wang</h3>
         <p>Master Student</p>
-        <p>MP-SPECT Function Estimation</p>
+        <p>2026-2029</p>
+        <p>MP-SPECT Outcome Prediction</p>
       </article>
       
-      
-      
-      
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/zhuoyuan-xu.jpg" alt="Zhuoyuan Xu" loading="lazy">
-        <h3>Zhuoyuan Xu</h3>
-        <p>Master Student</p>
-        <p>⁹⁹ᵐTc-DTPA · CKD & GFR Prediction</p>
-      </article>
-
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/zhigang-sun.jpeg" alt="Zhigang Sun" loading="lazy">
-        <h3>Zhigang Sun</h3>
-        <p>Master Student</p>
-        <p>delayedPET · Generation</p>
-      </article>
-    </div>
-  </div>
-
-  <div class="team-cohort">
-    <h3 class="team-cohort__year">2025-2028</h3>
-    <div class="team-members">
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/chongzhi-li.jpg" alt="Chongzhi Li" loading="lazy">
-        <h3>Chongzhi Li</h3>
-        <p>Master Student</p>
-        <p>Early-frame ⁹⁹ᵐTc-DTPA for TAC prediction</p>
-      </article>
-
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/yansong-li.jpeg" alt="Yansong Li" loading="lazy">
-        <h3>Yansong Li</h3>
-        <p>Master Student</p>
-        <p>Medical imaging privacy protection</p>
-      </article>
-
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/qian-wang.jpeg" alt="Qian Wang" loading="lazy">
-        <h3>Qian Wang</h3>
-        <p>Master Student</p>
-        <p>MRI to sCT</p>
-      </article>
-
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/yuanhao-zhu.jpeg" alt="Yuanhao Zhu" loading="lazy">
-        <h3>Yuanhao Zhu</h3>
-        <p>Master Student</p>
-        <p>Multimodel for CKD & GFR Prediction</p>
-      </article>
-    </div>
-  </div>
-
-  <div class="team-cohort">
-    <h3 class="team-cohort__year">2026-2029</h3>
-    <div class="team-members">
-      
-      
-    </div>
-  </div>
-
-  <div class="team-cohort">
-    <h3 class="team-cohort__year">Research Assistant</h3>
-    <div class="team-members">
-      <article class="team-member">
-        <img class="team-member__photo team-member__photo--tall" src="/images/team/chunlie-liu.jpeg?v=20260728" alt="Chunlie Liu" loading="lazy">
-        <h3>Chunlie Liu</h3>
-        <p>Research Assistant</p>
-        <p>Year 4 (2023-2027)</p>
-        <p>Deblur/denoising for CG MP-SPECT</p>
-      </article>
-
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/ziyan-wu.jpeg" alt="Ziyan Wu" loading="lazy">
         <h3>Ziyan Wu</h3>
         <p>Research Assistant</p>
         <p>Year 3 (2024-2028)</p>
-        <p>GNN for MP-SPECT</p>
-      </article>
-
-      <article class="team-member">
-        <img class="team-member__photo" src="/images/team/shang-peng.jpg" alt="Shang Peng" loading="lazy">
-        <h3>Shang Peng</h3>
-        <p>Research Assistant</p>
-        <p>Year 3 (2024-2028)</p>
-        <p>Temporal attack for CG MP-SPECT</p>
+        <p>GNN for MP-SPECT Enhancement</p>
       </article>
 
       <article class="team-member">
@@ -144,6 +68,77 @@ classes: team-page
       </article>
     </div>
   </div>
+
+  <div class="team-cohort">
+    <h3 class="team-cohort__year">Dynamic<br>renal scintigraphy<br>and renal<br>function quantification</h3>
+    <div class="team-members">
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/zhuoyuan-xu.jpg" alt="Zhuoyuan Xu" loading="lazy">
+        <h3>Zhuoyuan Xu</h3>
+        <p>Master Student</p>
+        <p>2024-2027</p>
+        <p>ROI-Free Renal Function Quantification</p>
+      </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/yuanhao-zhu.jpeg" alt="Yuanhao Zhu" loading="lazy">
+        <h3>Yuanhao Zhu</h3>
+        <p>Master Student</p>
+        <p>2025-2028</p>
+        <p>TAC-Guided Renal Function Calibration</p>
+      </article>
+      
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/chongzhi-li.jpg" alt="Chongzhi Li" loading="lazy">
+        <h3>Chongzhi Li</h3>
+        <p>Master Student</p>
+        <p>2025-2028</p>
+        <p>Dynamic Renal Scintigraphy Quality Control</p>
+      </article>
+    </div>
+  </div>
+
+  <div class="team-cohort">
+    <h3 class="team-cohort__year">Cross-timepoint<br>PET imaging<br>and metabolic<br>evolution prediction</h3>
+    <div class="team-members">
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/zhigang-sun.jpeg" alt="Zhigang Sun" loading="lazy">
+        <h3>Zhigang Sun</h3>
+        <p>Master Student</p>
+        <p>2024-2027</p>
+        <p>delayedPET Generation</p>
+      </article>
+      
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/qian-wang.jpeg" alt="Qian Wang" loading="lazy">
+        <h3>Qian Wang</h3>
+        <p>Master Student</p>
+        <p>2025-2028</p>
+        <p>MRI to sCT</p>
+      </article>    
+    </div>
+  </div>
+
+  <div class="team-cohort">
+    <h3 class="team-cohort__year">Related medical<br>image analysis</h3>
+    <div class="team-members">
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/yansong-li.jpeg" alt="Yansong Li" loading="lazy">
+        <h3>Yansong Li</h3>
+        <p>Master Student</p>
+        <p>2025-2028</p>
+        <p>Medical imaging privacy protection</p>
+      </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/shang-peng.jpg" alt="Shang Peng" loading="lazy">
+        <h3>Shang Peng</h3>
+        <p>Research Assistant</p>
+        <p>Year 3 (2024-2028)</p>
+        <p>Temporal attack for CG MP-SPECT</p>
+      </article>      
+    </div>
+  </div>
 </section>
 
 <section class="team-section team-section--alumni">
@@ -151,8 +146,9 @@ classes: team-page
 
   <div class="team-alumni">
     <section class="team-alumni__group">
-      <h3>Graduate Student</h3>
+      <h3>Student</h3>
       <ul>
+        <li>Chunlei Liu (RA, 2027), TBD</li>
         <li>Jiahui Dong (M.S., 2026), China Construction Bank Corporation, Haikou</li>
         <li>Chunhao Li (M.S., 2026), Ph.D. Student@HNU</li>
         <li>Tonghua Qiao (M.S., 2025, co-supervisor), China Mobile, Guiyang</li>
