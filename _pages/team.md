@@ -24,7 +24,7 @@ classes: team-page
   <h2>Trainee</h2>
 
   <div class="team-cohort">
-    <h3 class="team-cohort__year">Low-count myocardial perfusion<br>SPECT imaging</h3>
+    <h3 class="team-cohort__year">Low-count<br>myocardial perfusion<br>SPECT imaging</h3>
     <div class="team-members">
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/zhuoyuan-xu.jpg" alt="Zhuoyuan Xu" loading="lazy">
