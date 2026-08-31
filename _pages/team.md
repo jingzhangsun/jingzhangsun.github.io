@@ -94,6 +94,13 @@ classes: team-page
         <p>Master Student</p>
         <p>2025-2028</p>
         <p>Dynamic Renal Scintigraphy Quality Control</p>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/ruoning-wu.jpg" alt="Ruoning Wu" loading="lazy">
+        <h3>Ruoning Wu</h3>
+        <p>Master Student</p>
+        <p>2026-2029</p>
+        <p>TBD</p>
       </article>
     </div>
   </div>
@@ -115,6 +122,14 @@ classes: team-page
         <p>Master Student</p>
         <p>2025-2028</p>
         <p>MRI to sCT</p>
+      </article>    
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/xiaomin-fang.jpeg" alt="Xiaomin Fang" loading="lazy">
+        <h3>Xiaomin Fang</h3>
+        <p>Research Assistant</p>
+        <p>Year 2 (2025-2029)</p>
+        <p>TBD</p>
       </article>    
     </div>
   </div>
