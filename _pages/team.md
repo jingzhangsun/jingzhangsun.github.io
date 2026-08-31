@@ -126,7 +126,7 @@ classes: team-page
       </article>    
 
       <article class="team-member">
-        <img class="team-member__photo" src="/images/team/xiaomin-fang.jpeg" alt="Xiaomin Fang" loading="lazy">
+        <img class="team-member__photo" src="/images/team/xiaomin-fang.jpg" alt="Xiaomin Fang" loading="lazy">
         <h3>Xiaomin Fang</h3>
         <p>Research Assistant</p>
         <p>Year 2 (2025-2029)</p>
