@@ -22,7 +22,7 @@ classes: team-page
 </section>
 
 <section class="team-section team-section--trainee">
-  <h2>Trainee</h2>
+  <h2>Trainees</h2>
 
   <div class="team-cohort">
     <h3 class="team-cohort__year">Low-count<br>myocardial perfusion<br>SPECT imaging</h3>
@@ -30,7 +30,7 @@ classes: team-page
       <article class="team-member">
         <img class="team-member__photo" src="/images/team/yanyi-lin.jpeg" alt="Yanyi Lin" loading="lazy">
         <h3>Yanyi Lin</h3>
-        <p>Direct Entry Master Student</p>
+        <p>Direct-Entry Master Student</p>
         <p>2026-2029</p>
         <p>Motion-Constrained Gated MP-SPECT Restoration</p>
       </article>
@@ -95,6 +95,14 @@ classes: team-page
         <p>2025-2028</p>
         <p>Dynamic Renal Scintigraphy Quality Control</p>
       </article>
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/ruoning-wu.jpg" alt="Ruoning Wu" loading="lazy">
+        <h3>Ruoning Wu</h3>
+        <p>Master Student</p>
+        <p>2026-2029</p>
+        <p>TBD</p>
+      </article>
     </div>
   </div>
 
@@ -115,6 +123,14 @@ classes: team-page
         <p>Master Student</p>
         <p>2025-2028</p>
         <p>MRI to sCT</p>
+      </article>    
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/xiaomin-fang.jpg" alt="Xiaomin Fang" loading="lazy">
+        <h3>Xiaomin Fang</h3>
+        <p>Research Assistant</p>
+        <p>Year 2 (2025-2029)</p>
+        <p>TBD</p>
       </article>    
     </div>
   </div>
