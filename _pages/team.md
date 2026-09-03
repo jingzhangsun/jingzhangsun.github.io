@@ -32,7 +32,7 @@ classes: team-page
         <h3>Yanyi Lin</h3>
         <p>Direct-Entry Master Student</p>
         <p>2026-2029</p>
-        <p>Unsupervised registration for gated MP-SPECT Restoratio</p>
+        <p>Unsupervised registration for gated MP-SPECT restoratio</p>
       </article>
 
       <article class="team-member">
@@ -40,7 +40,7 @@ classes: team-page
         <h3>Jinlong Li</h3>
         <p>Master Student</p>
         <p>2026-2029</p>
-        <p>MP-SPECT Perfusion Quantification</p>
+        <p>Gated SPECT quantitative assessment</p>
       </article>
 
       <article class="team-member">
@@ -48,7 +48,7 @@ classes: team-page
         <h3>Yu Wang</h3>
         <p>Master Student</p>
         <p>2026-2029</p>
-        <p>MP-SPECT Outcome Prediction</p>
+        <p>Gated SPECT ischemia prediction</p>
       </article>
       
       <article class="team-member">
@@ -56,7 +56,7 @@ classes: team-page
         <h3>Ziyan Wu</h3>
         <p>Research Assistant</p>
         <p>Year 3 (2024-2028)</p>
-        <p>GNN for MP-SPECT Enhancement</p>
+        <p>Graph-temporal gated MP-SPECT restoration</p>
       </article>
 
       <article class="team-member">
@@ -64,7 +64,7 @@ classes: team-page
         <h3>Qihang Kong</h3>
         <p>Research Assistant</p>
         <p>Year 2 (2025-2029)</p>
-        <p>TBD</p>
+        <p>Functional quantification from gated MP-SPECT</p>
       </article>
     </div>
   </div>
