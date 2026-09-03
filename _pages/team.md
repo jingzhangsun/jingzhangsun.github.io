@@ -32,7 +32,7 @@ classes: team-page
         <h3>Yanyi Lin</h3>
         <p>Direct-Entry Master Student</p>
         <p>2026-2029</p>
-        <p>Motion-Constrained Gated MP-SPECT Restoration</p>
+        <p>Unsupervised registration for gated MP-SPECT Restoratio</p>
       </article>
 
       <article class="team-member">
