@@ -131,7 +131,15 @@ classes: team-page
         <p>Research Assistant</p>
         <p>Year 2 (2025-2029)</p>
         <p>TBD</p>
-      </article>    
+      </article>  
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/haiyan-wang.jpg" alt="Haiyan Wang" loading="lazy">
+        <h3>Haiyan Wang</h3>
+        <p>Research Assistant</p>
+        <p>Year 2 (2025-2029)</p>
+        <p>TBD</p>
+      </article>  
     </div>
   </div>
 
