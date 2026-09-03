@@ -122,7 +122,7 @@ classes: team-page
         <h3>Qian Wang</h3>
         <p>Master Student</p>
         <p>2025-2028</p>
-        <p>MRI to sCT</p>
+        <p>Longitudinal MRI-Guided Synthetic CT</p>
       </article>    
 
       <article class="team-member">
