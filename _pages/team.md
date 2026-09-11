@@ -32,7 +32,7 @@ classes: team-page
         <h3>Yanyi Lin</h3>
         <p>Direct-Entry Master Student</p>
         <p>2026-2029</p>
-        <p>Motion-Constrained Gated MP-SPECT Restoration</p>
+        <p>Unsupervised registration for gated MP-SPECT restoratio</p>
       </article>
 
       <article class="team-member">
@@ -40,7 +40,7 @@ classes: team-page
         <h3>Jinlong Li</h3>
         <p>Master Student</p>
         <p>2026-2029</p>
-        <p>MP-SPECT Perfusion Quantification</p>
+        <p>Gated SPECT quantitative assessment</p>
       </article>
 
       <article class="team-member">
@@ -48,7 +48,7 @@ classes: team-page
         <h3>Yu Wang</h3>
         <p>Master Student</p>
         <p>2026-2029</p>
-        <p>MP-SPECT Outcome Prediction</p>
+        <p>Gated SPECT ischemia prediction</p>
       </article>
       
       <article class="team-member">
@@ -56,7 +56,7 @@ classes: team-page
         <h3>Ziyan Wu</h3>
         <p>Research Assistant</p>
         <p>Year 3 (2024-2028)</p>
-        <p>GNN for MP-SPECT Enhancement</p>
+        <p>Graph-temporal gated MP-SPECT restoration</p>
       </article>
 
       <article class="team-member">
@@ -64,7 +64,7 @@ classes: team-page
         <h3>Qihang Kong</h3>
         <p>Research Assistant</p>
         <p>Year 2 (2025-2029)</p>
-        <p>TBD</p>
+        <p>Functional quantification from gated MP-SPECT</p>
       </article>
     </div>
   </div>
@@ -122,7 +122,7 @@ classes: team-page
         <h3>Qian Wang</h3>
         <p>Master Student</p>
         <p>2025-2028</p>
-        <p>MRI to sCT</p>
+        <p>Longitudinal MRI-Guided Synthetic CT</p>
       </article>    
 
       <article class="team-member">
@@ -131,7 +131,15 @@ classes: team-page
         <p>Research Assistant</p>
         <p>Year 2 (2025-2029)</p>
         <p>TBD</p>
-      </article>    
+      </article>  
+
+      <article class="team-member">
+        <img class="team-member__photo" src="/images/team/haiyan-wang.jpg" alt="Haiyan Wang" loading="lazy">
+        <h3>Haiyan Wang</h3>
+        <p>Research Assistant</p>
+        <p>Year 3 (2024-2028)</p>
+        <p>TBD</p>
+      </article>  
     </div>
   </div>
 
