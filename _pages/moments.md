@@ -14,6 +14,33 @@ classes: moments-page
     <h2 id="moments-2026">2026</h2>
     <div class="moments-grid">
       <article class="moment-card">
+        <a class="moment-card__media" href="/images/20260910.jpg">
+          <img src="/images/20260910.jpg" alt="10 Sep 2026, Happy Teacher's Day 2026" loading="lazy">
+        </a>
+        <div class="moment-card__body">
+          <time datetime="2026-09-10">10 Sep 2026</time>
+          <h3>Happy Teacher's Day 2026</h3>
+        </div>
+      </article>
+      <article class="moment-card">
+        <a class="moment-card__media" href="/images/20260905.jpg">
+          <img src="/images/20260905.jpg" alt="05 Sep 2026, Dr. Sun gave a talk at 海南医学会核医学分会2026年年会" loading="lazy">
+        </a>
+        <div class="moment-card__body">
+          <time datetime="2026-09-05">05 Sep 2026</time>
+          <h3>Dr. Sun gave a talk at 海南医学会核医学分会2026年年会</h3>
+        </div>
+      </article>
+      <article class="moment-card">
+        <a class="moment-card__media" href="/images/20260903.jpg">
+          <img src="/images/20260903.jpg" alt="03 Sep 2026, Welcome Yu, Jinlong, Yanyi, and Ruoning for joining our group as master's students, and the other undergraduate students as research assistants" loading="lazy">
+        </a>
+        <div class="moment-card__body">
+          <time datetime="2026-09-03">03 Sep 2026</time>
+          <h3>Welcome Yu, Jinlong, Yanyi, and Ruoning for joining our group as master's students, and the other undergraduate students as research assistants</h3>
+        </div>
+      </article>
+      <article class="moment-card">
         <a class="moment-card__media" href="/images/20260718.jpg">
           <img src="/images/20260718.jpg" alt="18 July 2026, Yanyi and Ziyan received the Third Place Award at the 11th National Biomedical Engineering Innovation Design Competition for College Students" loading="lazy">
         </a>
