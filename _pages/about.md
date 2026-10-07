@@ -46,6 +46,14 @@ redirect_from:
   <!-- 中文维护说明：新增新闻时复制一个 article；datetime 使用 YYYY-MM-DD，页面显示日期使用 YYYY/MM/DD。 -->
   <div class="home-news__timeline">
     <article class="home-news__item">
+      <time datetime="2026-09-25">2026/09/25</time>
+      <p><strong>Chunlei</strong> (RA) was awarded National Scholarship</p>
+    </article>
+    <article class="home-news__item">
+      <time datetime="2026-09-24">2026/09/24</time>
+      <p><strong>Chunlei</strong> (RA) was recommended for Direct-Entry Admission to the University of Science and Technology of China</p>
+    </article>
+    <article class="home-news__item">
       <time datetime="2026-07-18">2026/07/18</time>
       <p><strong>Yanyi</strong> and <strong>Ziyan</strong> (Bachelor student) received the <strong>Third Place Award</strong> at the 11th National Biomedical Engineering Innovation Design Competition for College Students</p>
     </article>
