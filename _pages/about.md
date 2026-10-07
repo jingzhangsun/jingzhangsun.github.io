@@ -15,11 +15,6 @@ redirect_from:
 </div>
 
 <section class="home-annual" aria-labelledby="home-annual-title">
-  <div class="home-section-heading">
-    <h2 id="home-annual-title">Annual Group Photos</h2>
-    <p>SMILab through the years</p>
-  </div>
-
   <div class="home-annual__grid">
     <figure class="home-annual__photo">
       <img src="/images/annual/2026.jpg" alt="SMILab group photo, 2026" loading="lazy">
