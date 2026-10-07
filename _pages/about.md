@@ -14,6 +14,32 @@ redirect_from:
   <p><strong>S</strong>mart <strong>M</strong>edical <strong>I</strong>maging <strong>Lab</strong>oratory (SMILab) consists of 14 members at present. To date, we have 3 research articles accepted at IEEE TRPMS, Med. Phy., and EJNMMI Phy., 6 abstracts accepted at the annual meeting of the SNMMI with 1 oral presentation, as well as 7 summaries accepted at the IEEE NSS/MIC with 1 oral presentation (To be updated).</p>
 </div>
 
+<section class="home-annual" aria-labelledby="home-annual-title">
+  <div class="home-section-heading">
+    <h2 id="home-annual-title">Annual Group Photos</h2>
+    <p>SMILab through the years</p>
+  </div>
+
+  <div class="home-annual__grid">
+    <figure class="home-annual__photo">
+      <img src="/images/annual/2026.jpg" alt="SMILab group photo, 2026" loading="lazy">
+      <figcaption>2026</figcaption>
+    </figure>
+    <figure class="home-annual__photo">
+      <img src="/images/annual/2025.jpg" alt="SMILab group photo, 2025" loading="lazy">
+      <figcaption>2025</figcaption>
+    </figure>
+    <figure class="home-annual__photo">
+      <img src="/images/annual/2024.jpg" alt="SMILab group photo, 2024" loading="lazy">
+      <figcaption>2024</figcaption>
+    </figure>
+    <figure class="home-annual__photo">
+      <img src="/images/annual/2023.jpg" alt="SMILab group photo, 2023" loading="lazy">
+      <figcaption>2023</figcaption>
+    </figure>
+  </div>
+</section>
+
 <section class="home-news" aria-labelledby="home-news-title">
   <h2 id="home-news-title">News</h2>
 
